@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="andrew gilbert" width="400"/>
+<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="andrew gilbert"/>
 </p>
 [Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
