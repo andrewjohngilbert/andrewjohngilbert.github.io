@@ -60,18 +60,10 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
 
-
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
+<p align="left">
+<a href="https://github.com/soon-yau/upgpt">
+  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="400"/>
+</a>
+</p>
+Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
