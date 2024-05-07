@@ -53,9 +53,11 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 
 
 ### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
+<p align="center">
 <a href="https://github.com/soon-yau/upgpt">
-  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="200"/>
+  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="300"/>
 </a>
+</p>
 
   `Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023`
 
