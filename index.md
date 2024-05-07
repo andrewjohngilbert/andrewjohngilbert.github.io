@@ -28,7 +28,7 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 - Xu Dong - Group Activity recognition in Video 2023
 - Mona Ahmadian - Self Supervised Audio Visual Video Understanding 2022
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
-- Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
+- [Kar Balan] - Decentralized virtual content Understanding for Blockchain- 2021
 - Katharina Botel-Azzinnaro - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine grained style - 2019
 - [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and exploration - 2019
@@ -50,7 +50,13 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 
 
 
-
+### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/PLOT-TAL/">
+  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" width="400"/>
+</a>
+</p>
+Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 
 ### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
 <p align="left">
