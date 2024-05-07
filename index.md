@@ -45,6 +45,24 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 # Recent Research
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="{{ site.baseurl }}/assets/images/UPGPT model.jpg" alt="UPGPT model"/ width = 200px>
+UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer,  Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop,2023
+
+
+
+
 ## Header 2
 ### Header 3
 
