@@ -53,7 +53,7 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 
 
 ### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
-<p align="center">
+<p align="left">
 <a href="https://github.com/soon-yau/upgpt">
   <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="400"/>
 </a>
