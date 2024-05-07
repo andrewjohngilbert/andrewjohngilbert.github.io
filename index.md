@@ -1,6 +1,6 @@
 
 
-
+<img src="{{ site.baseurl }}/assets/images/Andrew Gilbert-5518crop2.jpg" alt="andrew gilbert" width="200"/>
 ![Image]({{ site.baseurl }}/assets/images/Andrew Gilbert-5518crop2.jpg)
 [Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
