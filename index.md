@@ -60,10 +60,10 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
 
-### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
+### [DECORAIT - DECentralized Opt-in/out Registry for AI Training](https://andrewjohngilbert.github.io/Decorait/)
 <p align="left">
-<a href="https://github.com/soon-yau/upgpt">
-  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="400"/>
+<a href="https://andrewjohngilbert.github.io/Decorait/">
+  <img src="{{ site.baseurl }}/assets/images/Decorait_teaser.png" width="400"/>
 </a>
 </p>
-Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
+ Kar Balan, Alex Black, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse. In Proc CVMP'23 - Best Paper
