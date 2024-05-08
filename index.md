@@ -58,6 +58,22 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 </p>
 Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 
+### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Multi-TAL/">
+  <img src="{{ site.baseurl }}/assets/images/Multi_TAL_Teaser.jpg" width="400"/>
+</a>
+</p>
+Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning for Audio, 2023
+
+### [MOFO: MOtion FOcused Self-Supervisionfor Video Understanding](https://andrewjohngilbert.github.io/mofo/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/mofo/">
+  <img src="{{ site.baseurl }}/assets/images/Mofo_Teaser.png" width="400"/>
+</a>
+</p>
+Mona Ahmadian, Frank Guerin, Andrew Gilbert, NeurIPS 2023 Workshop Self-Supervised Learning: Theory and Practice, 2023
+
 ### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
 <p align="left">
 <a href="https://github.com/soon-yau/upgpt">
@@ -66,13 +82,7 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
 
-### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/Multi-TAL/">
-  <img src="{{ site.baseurl }}/assets/images/Multi_TAL_Teaser.jpg" width="400"/>
-</a>
-</p>
-Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning for Audio, 2023
+
 
 ### [DECORAIT - DECentralized Opt-in/out Registry for AI Training](https://andrewjohngilbert.github.io/Decorait/)
 <p align="left">
