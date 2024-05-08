@@ -113,7 +113,7 @@ Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Coll
 ### [Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer](https://andrewjohngilbert.github.io/aladinnst)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/aladinnst">
-  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" width="400"/>
 </a>
 </p>
 Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, arXiv abs/2304.05755, 2023
