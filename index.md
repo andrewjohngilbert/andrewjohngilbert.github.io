@@ -64,7 +64,15 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
   <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="400"/>
 </a>
 </p>
-Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
+Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
+
+### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Multi-TAL/">
+  <img src="{{ site.baseurl }}/assets/images/Multi_TAL_Teaser.jpg" width="400"/>
+</a>
+</p>
+Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning for Audio, 2023
 
 ### [DECORAIT - DECentralized Opt-in/out Registry for AI Training](https://andrewjohngilbert.github.io/Decorait/)
 <p align="left">
@@ -72,4 +80,4 @@ Soon Cheong, Armin Mustafa, Andrew Gilbert, In Proc ICCVWS'23 2nd computer visio
   <img src="{{ site.baseurl }}/assets/images/Decorait_teaser.png" width="400"/>
 </a>
 </p>
- Kar Balan, Alex Black, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse. In Proc CVMP'23 - Best Paper
+ Kar Balan, Alex Black, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse. The 20th ACM SIGGRAPH European Conference on Visual Media Production (CVMP'23), 2023 - Best Paper
