@@ -60,6 +60,14 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 
 ## 2023
 
+### [ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet](https://soon-yau.github.io/visconet/)
+<p align="left">
+<a href="https://soon-yau.github.io/visconet/">
+  <img src="{{ site.baseurl }}/assets/images/ViscoNet_Teaser.jpg" width="400"/>
+</a>
+</p>
+Soon Cheong, Armin Mustafa, Andrew Gilbert, ArXiv abs/2312.03154, 2023
+
 ### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Multi-TAL/">
@@ -71,7 +79,7 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning
 ### [MOFO: MOtion FOcused Self-Supervisionfor Video Understanding](https://andrewjohngilbert.github.io/mofo/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/mofo/">
-  <img src="{{ site.baseurl }}/assets/images/Mofo_Teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/Mofo_Teaser.jpg" width="400"/>
 </a>
 </p>
 Mona Ahmadian, Frank Guerin, Andrew Gilbert, NeurIPS 2023 Workshop Self-Supervised Learning: Theory and Practice, 2023
