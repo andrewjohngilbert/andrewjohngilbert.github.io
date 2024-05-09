@@ -138,5 +138,33 @@ Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, arXiv
 </p>
 Kar Balan, Shruti Agarwal, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
 
+## 2022
 
- ## 2022
+SVS: Adversarial refinement for sparse novel view synthesis
+VM González, A Gilbert, G Phillipson, S Jolly, S Hadfield
+arXiv preprint arXiv:2211.07301	2	2022
+
+Hypernst: Hyper-networks for neural style transfer
+D Ruta, A Gilbert, S Motiian, B Faieta, Z Lin, J Collomosse
+European Conference on Computer Vision, 201-217	5	2022
+
+StyleBabel: artistic style tagging and captioning
+D Ruta, A Gilbert, P Aggarwal, N Marri, A Kale, J Briggs, C Speed, H Jin, ...
+European Conference on Computer Vision, 219-236	9	2022
+
+Two-Stream Transformer Architecture for Long Form Video Understanding
+E Fish, J Weinbren, A Gilbert
+British Machine Vision Conference (BMVC)		2022
+
+SaiNet: Stereo aware inpainting behind objects with generative networks
+VM González, A Gilbert, G Phillipson, S Jolly, S Hadfield
+arXiv preprint arXiv:2205.07014	1	2022
+
+Kpe: Keypoint pose encoding for transformer-based image generation
+SY Cheong, A Mustafa, A Gilbert
+arXiv preprint arXiv:2203.04907	5	2022
+
+## 2021
+Rethinking genre classification with fine grained semantic clustering
+E Fish, J Weinbren, A Gilbert
+2021 IEEE International Conference on Image Processing (ICIP), 1274-1278	11*	2021
