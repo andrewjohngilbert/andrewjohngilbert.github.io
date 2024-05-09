@@ -130,9 +130,9 @@ Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, arXiv
 
 
 
-### [Ekila: synthetic media provenance and attribution for generative art](https://github.com/andrewjohngilbert.github.io/ekila)
+### [Ekila: synthetic media provenance and attribution for generative art](https://andrewjohngilbert.github.io/ekila)
 <p align="left">
-<a href="https://github.com/andrewjohngilbert.github.io/ekila">
+<a href="https://andrewjohngilbert.github.io/ekila">
   <img src="{{ site.baseurl }}/assets/images/Ekila_teaser.png" width="400"/>
 </a>
 </p>
