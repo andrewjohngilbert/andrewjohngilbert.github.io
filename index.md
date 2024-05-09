@@ -168,3 +168,204 @@ arXiv preprint arXiv:2203.04907	5	2022
 Rethinking genre classification with fine grained semantic clustering
 E Fish, J Weinbren, A Gilbert
 2021 IEEE International Conference on Image Processing (ICIP), 1274-1278	11*	2021
+
+Neural architecture search for deep image prior
+K Ho, A Gilbert, H Jin, J Collomosse
+Computers & graphics 98, 188-196	37	2021
+
+Human-like Relational Models for Activity Recognition in Video
+J Chrol-Cannon, A Gilbert, R Lazic, A Madhusoodanan, F Guerin
+arXiv preprint arXiv:2107.05319		2021
+
+ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity
+D Ruta, S Motiian, B Faieta, Z Lin, H Jin, A Filipkowski, A Gilbert, ...
+arXiv preprint arXiv:2103.09776	23	2021
+
+## 2019
+
+Semantic estimation of 3d body shape and pose using minimal cameras
+A Gilbert, M Trumble, A Hilton, J Collomosse
+arXiv preprint arXiv:1908.03030	1	2019
+
+Fusing visual and inertial sensors with semantics for 3d human pose estimation
+A Gilbert, M Trumble, C Malleson, A Hilton, J Collomosse
+International Journal of Computer Vision 127, 381-397	66	2019
+
+Automatic image annotation at ImageCLEF
+J Wang, A Gilbert, B Thomee, M Villegas
+Information Retrieval Evaluation in a Changing World: Lessons Learned from …	3	2019
+
+## 2018
+Inpainting of wide-baseline multiple viewpoint video
+A Gilbert, M Trumble, A Hilton, J Collomosse
+IEEE Transactions on Visualization and Computer Graphics 26 (7), 2417-2428	4	2018
+
+Deep autoencoder for combined human pose estimation and body model upscaling
+M Trumble, A Gilbert, A Hilton, J Collomosse
+Proceedings of the European Conference on Computer Vision (ECCV), 784-800	65	2018
+
+Volumetric performance capture from minimal camera viewpoints
+A Gilbert, M Volino, J Collomosse, A Hilton
+Proceedings of the European Conference on Computer Vision (ECCV), 566-581	60	2018
+
+Disentangling structure and aesthetics for style-aware image completion
+A Gilbert, J Collomosse, H Jin, B Price
+Proceedings of the IEEE Conference on Computer Vision and Pattern …	15	2018
+
+## 2017
+
+Total capture: 3d human pose estimation fusing video and inertial sensors
+M Trumble, A Gilbert, C Malleson, A Hilton, J Collomosse
+Proceedings of 28th British Machine Vision Conference, 1-13	290	2017
+
+Image and video mining through online learning
+A Gilbert, R Bowden
+Computer Vision and Image Understanding 158, 72-84	10	2017
+
+Guided optimisation through classification and regression for hand pose estimation
+P Krejov, A Gilbert, R Bowden
+Computer Vision and Image Understanding 155, 124-138	35	2017
+
+Real-time Full-Body Motion Capture from Video and IMUs
+C Malleson, A Gilbert, M Trumble, J Collomosse, A Hilton
+92	2017
+
+## 2016
+Deep convolutional networks for marker-less human pose estimation from multiple views
+M Trumble, A Gilbert, A Hilton, J Collomosse
+Proceedings of the 13th European conference on visual media production (CVMP …	22	2016
+
+Overview of the ImageCLEF 2016 Scalable Concept Image Annotation Task.
+A Gilbert, L Piras, J Wang, F Yan, A Ramisa, E Dellandrea, ...
+CLEF (Working Notes), 254-278	24	2016
+
+Learning Markerless human pose estimation from multiple viewpoint video
+M Trumble, A Gilbert, A Hilton, J Collomosse
+Computer Vision–ECCV 2016 Workshops: Amsterdam, The Netherlands, October 8 …	4	2016
+
+Learning multi-class discriminative patterns using episode-trees
+RB Eng Jon Ong, Nicolas Pugeault, Andrew Gilbert
+IARIA		2016
+
+## 2015 
+Geometric Mining: Scaling Geometric Hashing to Large Datasets
+A Gilbert, R Bowden
+3rd Workshop on Web-scale Vision and Social Media (VSM), at ICCV 2015	2	2015
+
+Overview of the ImageCLEF 2015 Scalable Image Annotation, Localization and Sentence Generation task.
+A Gilbert, L Piras, J Wang, F Yan, E Dellandrea, RJ Gaizauskas, ...
+CLEF (Working Notes)	39	2015
+
+Combining discriminative and model based approaches for hand pose estimation
+P Krejov, A Gilbert, R Bowden
+2015 11th IEEE international conference and workshops on automatic face and …	34	2015
+
+Data mining for action recognition
+A Gilbert, R Bowden
+Computer Vision--ACCV 2014: 12th Asian Conference on Computer Vision …	5	2015
+
+General overview of ImageCLEF at the CLEF 2015 labs
+M Villegas, H Müller, A Gilbert, L Piras, J Wang, K Mikolajczyk, ...
+Experimental IR Meets Multilinguality, Multimodality, and Interaction: 6th …	109	2015
+
+## 2014
+
+Capturing relative motion and finding modes for action recognition in the wild
+O Oshin, A Gilbert, R Bowden
+Computer Vision and Image Understanding 125, 155-171	17	2014
+
+A multitouchless interface: expanding user interaction
+P Krejov, A Gilbert, R Bowden
+IEEE computer graphics and applications 34 (3), 40-48	8	2014
+
+## 2012
+
+Meeting in the Middle: A top-down and bottom-up approach to detect pedestrians
+A Shaukat, A Gilbert, D Windridge, R Bowden
+Proceedings of the 21st International Conference on Pattern Recognition …	3	2012
+
+A picture is worth a thousand tags: automatic web based image tag expansion
+A Gilbert, R Bowden
+Asian Conference on Computer Vision, 447-460	10	2012
+
+Data fusion in ubiquitous networked robot systems for urban services
+L Merino, A Gilbert, J Capitán, R Bowden, J Illingworth, A Ollero
+annals of telecommunications-annales des télécommunications 67, 355-375	15	2012
+
+## 2011
+igroup: Weakly supervised image and video grouping
+A Gilbert, R Bowden
+2011 International Conference on Computer Vision, 2166-2173	10	2011
+
+Push and Pull: Iterative grouping of media
+A Gilbert, R Bowden
+British Machine Vision Conference 2011	2	2011
+
+There is more than one way to get out of a car: Automatic Mode Finding for Action Recognition in the Wild
+O Oshin, A Gilbert, R Bowden
+Iberian Conference on Pattern Recognition and Image Analysis, 41-48		2011
+
+Visualisation and prediction of conversation interest through mined social signals
+D Okwechime, EJ Ong, A Gilbert, R Bowden
+2011 IEEE International Conference on Automatic Face & Gesture Recognition …	6	2011
+
+Capturing the relative distribution of features for action recognition
+O Oshin, A Gilbert, R Bowden
+2011 IEEE International Conference on Automatic Face & Gesture Recognition …	31	2011
+
+Social interactive human video synthesis
+D Okwechime, EJ Ong, A Gilbert, R Bowden
+Computer Vision–ACCV 2010: 10th Asian Conference on Computer Vision …	6	2011
+
+## 2010
+
+Action recognition using mined hierarchical compound features
+A Gilbert, J Illingworth, R Bowden
+IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (5), 883-897	231	2010
+
+Decentralized sensor fusion for ubiquitous networking robotics in urban areas
+A Sanfeliu, J Andrade-Cetto, M Barbosa, R Bowden, J Capitán, ...
+Sensors 10 (3), 2274-2314	60	2010
+
+Learning to recognise spatio-temporal interest points
+OT Oshin, A Gilbert, J Illingworth, R Bowden
+Machine Learning for Human Motion Analysis: Theory and Practice, 14-30	1	2010
+
+## 2009
+Fast realistic multi-action recognition using mined dense spatio-temporal features
+A Gilbert, J Illingworth, R Bowden
+2009 IEEE 12th international conference on computer vision, 925-931	226	2009
+
+Accurate fusion of robot, camera and wireless sensors for surveillance applications
+A Gilbert, J Illingworth, R Bowden, J Capitan, L Merino
+2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV …	7	2009
+
+Action recognition using randomised ferns
+O Oshin, A Gilbert, J Illingworth, R Bowden
+2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV …	26	2009
+
+## 2008
+Incremental, scalable tracking of objects inter camera
+A Gilbert, R Bowden
+Computer Vision and Image Understanding 111 (1), 43-58	54	2008
+
+Scalable and adaptable tracking of humans in multiple camera systems
+A Gilbert
+PQDT-UK & Ireland	3	2008
+
+
+Scale invariant action recognition using compound features mined from dense spatio-temporal corners
+A Gilbert, J Illingworth, R Bowden
+Computer Vision–ECCV 2008: 10th European Conference on Computer Vision …	136	2008
+
+Tracking objects across uncalibrated arbitrary topology camera networks
+R Bowden, A Gilbert, P KaewTraKulPong
+Intelligent Distributed Video Surveillance Systems, 157-182	6	2006
+
+Poster Session II-Tracking and Motion-Tracking Objects Across Cameras by Incrementally Learning Inter-camera Colour Calibration and Patterns of Activity
+A Gilbert, R Bowden
+Lecture Notes in Computer Science 3952, 125-136		2006
+
+Tracking objects across cameras by incrementally learning inter-camera colour calibration and patterns of activity
+A Gilbert, R Bowden
+Computer Vision–ECCV 2006: 9th European Conference on Computer Vision, Graz …
