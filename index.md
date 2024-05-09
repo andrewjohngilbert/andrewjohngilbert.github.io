@@ -165,9 +165,14 @@ SY Cheong, A Mustafa, A Gilbert
 arXiv preprint arXiv:2203.04907	5	2022
 
 ## 2021
-Rethinking genre classification with fine grained semantic clustering
-E Fish, J Weinbren, A Gilbert
-2021 IEEE International Conference on Image Processing (ICIP), 1274-1278	11*	2021
+
+### [Rethinking genre classification with fine grained semantic clustering](https://andrewjohngilbert.github.io/Rethinking_genre)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Rethinking_genre">
+  <img src="{{ site.baseurl }}/assets/images/RethinkingGenre_teaser.png" width="400"/>
+</a>
+</p>
+Ed Fish, Jon Weinbren, Andrew Gilbert, IEEE International Conference on Image Processing (ICIP), 2021
 
 Neural architecture search for deep image prior
 K Ho, A Gilbert, H Jin, J Collomosse
