@@ -8,9 +8,9 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 # Biography
 
-Andrew Gilbert is an Associate Professor at the University of Surrey. His academic pursuits are primarily focused on video understanding and Generative Models. His research portfolio comprises over 65 articles published in the leading international vision conferences and journals, and he co-leads the [C-CATS](https://c-cats.ac/) research group at Surrey.
+Andrew Gilbert is an Associate Professor at the University of Surrey. His academic pursuits are primarily focused on video understanding and Generative Models. His research portfolio comprises over [65 articles](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ) published in the leading international vision conferences and journals, and he co-leads the [C-CATS](https://c-cats.ac/) research group at Surrey.
 
-Dr Gilbert's extensive research ranges from intelligent creative arts, such as [fine-grained style search](https://andrewjohngilbert.github.io/aladinnst/), [movie trailer genre understanding](https://andrewjohngilbert.github.io/Rethinking_genre/), and 4D performance capture, to enabling computers to perceive and understand their complex and cluttered surroundings using multiple training techniques, including [self-supervised](https://andrewjohngilbert.github.io/mofo/) and multiple data modes. Previously, his research encompassed 3D human pose estimation and complex real-world activity recognition, with early work on tracking people on vast surveillance networks.
+Dr Gilbert's extensive research ranges from intelligent creative arts, such as [fine-grained style search](https://andrewjohngilbert.github.io/aladinnst/), [movie trailer genre understanding](https://andrewjohngilbert.github.io/Rethinking_genre/), and [4D performance capture](https://cvssp.org/projects/totalcapture/TotalCapture/)), to enable computers to perceive and understand their complex and cluttered surroundings using multiple training techniques, including [self-supervised](https://andrewjohngilbert.github.io/mofo/) and multiple data modes. Previously, his research encompassed 3D human pose estimation and complex real-world activity recognition, with early work on tracking people on vast surveillance networks.
 
 Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](http://www.bmva.org/) (BMVA) Executive Committee member and coordinates the national [BMVA technical meetings](https://www.bmva.org/meetings). These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning. 
 
@@ -21,18 +21,18 @@ Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](h
 
 
 # PhD Students
-I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding but more often than not more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, then drop me an email. I am happy to work with high calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
+I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding, but more often than not, it has more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, email me. I am happy to work with high-calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
 
 ## Current PhD Students
 
 - Adrienne Deganutti - Long Term Video Captioning 2023
-- Xu Dong - Group Activity recognition in Video 2023
-- Mona Ahmadian - Self Supervised Audio Visual Video Understanding 2022
+- Xu Dong - Group Activity Recognition in Video 2023
+- Mona Ahmadian - Self-Supervised Audio Visual Video Understanding 2022
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
 - Katharina Botel-Azzinnaro - Real stories through faked media: Non-fiction in AI-generated environments 2021
-- [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine grained style - 2019
-- [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and exploration - 2019
+- [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
+- [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
 - Tony Orme - Temporal Prediction of IP packets in network switches - 2019
 ​- Rob Penhaligon  - 2019
 
@@ -219,10 +219,18 @@ A Gilbert, J Collomosse, H Jin, B Price
 Proceedings of the IEEE Conference on Computer Vision and Pattern …	15	2018
 
 ## 2017
+### [Total capture: 3d human pose estimation fusing video and inertial sensors](https://cvssp.org/projects/totalcapture/TotalCapture/)
+<p align="left">
+<a href="[https://cvssp.org/projects/totalcapture/TotalCapture/]">
+  <img src="{{ site.baseurl }}/assets/images/RethinkingGenre_teaser.png3" width="400"/>
+</a>
+</p>
+M Trumble, A Gilbert, C Malleson, A Hilton, J Collomosse. Proceedings of 28th British Machine Vision Conference, 1-13	290	2017
+
+
 
 Total capture: 3d human pose estimation fusing video and inertial sensors
-M Trumble, A Gilbert, C Malleson, A Hilton, J Collomosse
-Proceedings of 28th British Machine Vision Conference, 1-13	290	2017
+
 
 Image and video mining through online learning
 A Gilbert, R Bowden
