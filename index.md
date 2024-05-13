@@ -7,20 +7,21 @@
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
 
 # Biography
-I am an  Associate Professor at the University of Surrey. Before joining becoming a Lecturer, I obtained my PhD from CVSSP with Richard Bowden. My research interests include Computer Vision, video understanding and Generative Models.
 
-My Research ranges from research in intelligent creative arts such as fine grained style search and movie trailer genre understanding and 4D performance capture. Through to enabling machines to perceive and understand their surroundings with real-time accurate 3D human pose estimation for large-scale markerless motion capture for use both indoors and outdoors,  complex realistic activity recognition and early work on tracking people on vast surveillance networks.
+Andrew Gilbert is an Associate Professor at the University of Surrey. His academic pursuits are primarily focused on video understanding and Generative Models. His research portfolio comprises over 65 articles published in the leading international vision conferences and journals, and he co-leads the [C-CATS](https://c-cats.ac/) research group at Surrey.
 
-I have published over 50 articles in the leading international vision conferences and journals providing state of the art advancements in this field.
+Dr Gilbert's extensive research ranges from intelligent creative arts, such as [fine-grained style search](https://andrewjohngilbert.github.io/aladinnst/), [movie trailer genre understanding](https://andrewjohngilbert.github.io/Rethinking_genre/), and 4D performance capture, to enabling computers to perceive and understand their complex and cluttered surroundings using multiple training techniques, including [self-supervised](https://andrewjohngilbert.github.io/mofo/) and multiple data modes. Previously, his research encompassed 3D human pose estimation and complex real-world activity recognition, with early work on tracking people on vast surveillance networks.
 
- I'm a member of the [British Machine Vision Association (BMVA)](http://www.bmva.org/) Executive committee and coordinate the national BMVA technical meetings. bringing together key expert from industry and academia to discuss and identify solutions to current problems in specialist areas of the computer vision and machine learning field.
+Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](http://www.bmva.org/) (BMVA) Executive Committee member and coordinates the national [BMVA technical meetings](https://www.bmva.org/meetings). These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning. 
+
+
 
 # Updates
 
 
 
 # PhD Students
-I'm always looking for good PhD candidates but normally when I have funding available it is for UK students. This is sometimes due to restrictions on the funding but more often than not more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, then drop me an email. I am happy to work with high calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
+I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding but more often than not more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, then drop me an email. I am happy to work with high calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
 
 ## Current PhD Students
 
@@ -28,7 +29,7 @@ I'm always looking for good PhD candidates but normally when I have funding avai
 - Xu Dong - Group Activity recognition in Video 2023
 - Mona Ahmadian - Self Supervised Audio Visual Video Understanding 2022
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
-- [Kar Balan] - Decentralized virtual content Understanding for Blockchain- 2021
+- Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
 - Katharina Botel-Azzinnaro - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine grained style - 2019
 - [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and exploration - 2019
