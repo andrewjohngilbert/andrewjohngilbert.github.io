@@ -54,7 +54,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/RapidElephant/">
-  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/BMSB2024Teaser.jpg" width="400"/>
 </a>
 </p>
 Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting BMSB 2024
