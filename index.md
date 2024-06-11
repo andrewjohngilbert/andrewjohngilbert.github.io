@@ -51,6 +51,14 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 
 ## 2024
 
+### [FILS: Self-Supervised Video Feature Prediction In Semantic Language Space](https://andrewjohngilbert.github.io/FILS/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/FILS/">
+  <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" width="400"/>
+</a>
+</p>
+Mona Ahmadian, Frank Guerin, Andrew Gilbert, ArXiv abs/2406.03447 2024
+
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/RapidElephant/">
