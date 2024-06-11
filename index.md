@@ -51,6 +51,14 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 
 ## 2024
 
+### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/RapidElephant/">
+  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" width="400"/>
+</a>
+</p>
+Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting BMSB 2024
+
 ### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/PLOT-TAL/">
