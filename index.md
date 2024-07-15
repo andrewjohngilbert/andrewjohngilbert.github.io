@@ -43,11 +43,17 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Phil Krejov](https://www.linkedin.com/in/krejov/) - 2012
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
-# Recent Research
+# Gilbertine Weekend Away
+Working together is cruical for my lab and PhD student, so we go on a yearly trip away
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/FILS/">
+  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="400"/>
+</a>
+</p>
 
 
 
-
+#Research Updates
 
 ## 2024
 
