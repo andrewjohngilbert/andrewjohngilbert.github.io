@@ -16,9 +16,6 @@ Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](h
 
 
 
-# Updates
-
-
 
 # PhD Students
 I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding, but more often than not, it has more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, email me. I am happy to work with high-calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
@@ -44,10 +41,10 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
 # Gilbertine Weekend Away
-Working together is cruical for my lab and PhD student, so we go on a yearly trip away
+Working together is cruical for my lab and PhD student, so to help this skill and have we go on a yearly trip away
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/FILS/">
-  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="300"/>
 </a>
 </p>
 
