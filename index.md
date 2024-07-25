@@ -27,10 +27,10 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 
 - Adrienne Deganutti - Long Term Video Captioning 2023
 - Xu Dong - Group Activity Recognition in Video 2023
-- Mona Ahmadian - Self-Supervised Audio Visual Video Understanding 2022
+- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
-- Katharina Botel-Azzinnaro - Real stories through faked media: Non-fiction in AI-generated environments 2021
+- [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
 - [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
 - Tony Orme - Temporal Prediction of IP packets in network switches - 2019
@@ -50,7 +50,7 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
   <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="300"/>
 </a>
 
-</p>
+
 
 
 
@@ -64,7 +64,23 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
   <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" width="400"/>
 </a>
 </p>
-Mona Ahmadian, Frank Guerin, Andrew Gilbert, ArXiv abs/2406.03447 2024
+Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (BMVC'24) 2024
+
+### [Interpretable Long-term Action Quality Assessment](https://andrewjohngilbert.github.io/InterpretAQA/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/InterpretAQA/">
+  <img src="{{ site.baseurl }}/assets/images/InterpretAQA_Teaser.jpg" width="400"/>
+</a>
+</p>
+Xu Dong, British Machine Vision Confernce (BMVC'24) 2024
+
+### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/BBox/">
+  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
 
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
