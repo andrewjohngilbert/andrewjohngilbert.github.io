@@ -31,12 +31,12 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
-- [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
-- [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
+
 - Tony Orme - Temporal Prediction of IP packets in network switches - 2019
-​- Rob Penhaligon  - 2019
 
 ## Alumi
+- [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
+- [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
 - [Violeta Menendez Gonzalez](https://www.linkedin.com/in/violetamenendez/) - Novel viewpoint and stereo inpainting - 2019
 - [Kary Ho](https://www.linkedin.com/in/kary-ho-484a3b1aa) 2019
 - [Mat Trumble](http://scholar.google.co.uk/citations?user=iKylkAgAAAAJ) - 2015
