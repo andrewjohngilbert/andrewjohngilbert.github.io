@@ -49,8 +49,7 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
 <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/">
   <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="300"/>
 </a>
-
-
+</p>
 
 
 
