@@ -9,6 +9,12 @@
 
 {% seo %}
     {% include head-custom.html %}
+
+    {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}{% endraw %}
+
+
   </head>
 
   <body>
