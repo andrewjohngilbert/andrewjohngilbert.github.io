@@ -52,7 +52,7 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
 </p>
 
 
-
+[Link to another page](./another-page.html).
 # Research Updates
 
 ## 2024
