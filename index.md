@@ -15,11 +15,6 @@ Dr Gilbert's extensive research ranges from intelligent creative arts, such as [
 Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](http://www.bmva.org/) (BMVA) Executive Committee member and coordinates the national [BMVA technical meetings](https://www.bmva.org/meetings). These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning. 
 
 
-
-# Updates
-
-
-
 # PhD Students
 I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding, but more often than not, it has more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, email me. I am happy to work with high-calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
 
@@ -31,7 +26,6 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
-
 - Tony Orme - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
@@ -79,6 +73,40 @@ Xu Dong, British Machine Vision Confernce (BMVC'24) 2024
 </a>
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
+
+### [Interpretable Action Recognition on Hard to Classify Actions](https://andrewjohngilbert.github.io/InterpretActions/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/InterpretActions/">
+  <img src="{{ site.baseurl }}/assets/images/InterpretActions_Teaser.png" width="400"/>
+</a>
+</p>
+Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
+
+### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/BBox/">
+  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
+
+### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/BBox/">
+  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
+
+### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/BBox/">
+  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
+
+
 
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
