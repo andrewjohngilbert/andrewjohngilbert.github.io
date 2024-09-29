@@ -82,10 +82,10 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, An
 </p>
 Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
 
-### [DEAR: Depth-Estimated Action Recognition](https://andrewjohngilbert.github.io/Dear/)
+### [DEAR: Depth-Estimated Action Recognition](https://andrewjohngilbert.github.io/dear/)
 <p align="left">
-<a href="https://andrewjohngilbert.github.io/Dear/">
-  <img src="{{ site.baseurl }}/assets/images/dear_Teaser.jpg" width="400"/>
+<a href="https://andrewjohngilbert.github.io/aear/">
+  <img src="{{ site.baseurl }}/assets/images/dear_teaser.jpg" width="400"/>
 </a>
 </p>
 Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
