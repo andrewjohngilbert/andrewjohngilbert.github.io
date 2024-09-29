@@ -85,7 +85,7 @@ Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Co
 ### [DEAR: Depth-Estimated Action Recognition](https://andrewjohngilbert.github.io/Dear/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Dear/">
-  <img src="{{ site.baseurl }}/assets/images/dear_Teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dear_Teaser.jpg" width="400"/>
 </a>
 </p>
 Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
