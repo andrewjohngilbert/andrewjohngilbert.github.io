@@ -82,13 +82,13 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, An
 </p>
 Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
 
-### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
+### [DEAR: Depth-Estimated Action Recognition](https://andrewjohngilbert.github.io/Dear/)
 <p align="left">
-<a href="https://andrewjohngilbert.github.io/BBox/">
-  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+<a href="https://andrewjohngilbert.github.io/Dear/">
+  <img src="{{ site.baseurl }}/assets/images/dear_Teaser.png" width="400"/>
 </a>
 </p>
-Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
+Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
 
 ### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
 <p align="left">
