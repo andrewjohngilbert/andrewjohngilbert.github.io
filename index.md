@@ -104,7 +104,7 @@ Soon Cheong, Armin Mustafa, Andrew Gilbert, European Conference of Computer Visi
   <img src="{{ site.baseurl }}/assets/images/diffnst_teaser.jpg" width="400"/>
 </a>
 </p>
-Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
 
 ### [Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer](https://andrewjohngilbert.github.io/aladinnst)
 <p align="left">
@@ -112,7 +112,7 @@ Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Coll
   <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" width="400"/>
 </a>
 </p>
-Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
 
 
 ### [NeAT: Neural Artistic Tracing for Beautiful Style Transfer](https://andrewjohngilbert.github.io/neat)
@@ -121,7 +121,7 @@ Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, 
   <img src="{{ site.baseurl }}/assets/images/neat_teaser.jpg" width="400"/>
 </a>
 </p>
-Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
 
 ### [Interpretable Action Recognition on Hard to Classify Actions](https://andrewjohngilbert.github.io/InterpretActions/)
 <p align="left">
