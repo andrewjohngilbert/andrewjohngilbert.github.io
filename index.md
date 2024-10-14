@@ -106,24 +106,6 @@ Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Co
 </p>
 Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
 
-### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/BBox/">
-  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
-</a>
-</p>
-Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
-
-### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/BBox/">
-  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
-</a>
-</p>
-Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
-
-
-
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/RapidElephant/">
