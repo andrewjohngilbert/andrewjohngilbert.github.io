@@ -90,6 +90,14 @@ Will Binning, Sadegh Rahmani, Xu Dong, Andrew Gilbert, Conference on Visual Medi
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
 
+### [ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet](https://soon-yau.github.io/visconet/)
+<p align="left">
+<a href="https://soon-yau.github.io/visconet/">
+  <img src="{{ site.baseurl }}/assets/images/ViscoNet_Teaser.jpg" width="400"/>
+</a>
+</p>
+Soon Cheong, Armin Mustafa, Andrew Gilbert, European Conference of Computer Vision 2024, FashionAI: Exploring the intersection of Fashion and Artificial Intelligence for reshaping the Industry, 2024
+
 ### [Interpretable Action Recognition on Hard to Classify Actions](https://andrewjohngilbert.github.io/InterpretActions/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/InterpretActions/">
@@ -123,14 +131,6 @@ Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE Internation
 Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 
 ## 2023
-
-### [ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet](https://soon-yau.github.io/visconet/)
-<p align="left">
-<a href="https://soon-yau.github.io/visconet/">
-  <img src="{{ site.baseurl }}/assets/images/ViscoNet_Teaser.jpg" width="400"/>
-</a>
-</p>
-Soon Cheong, Armin Mustafa, Andrew Gilbert, ArXiv abs/2312.03154, 2023
 
 ### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
 <p align="left">
