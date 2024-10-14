@@ -98,6 +98,31 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, An
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, European Conference of Computer Vision 2024, FashionAI: Exploring the intersection of Fashion and Artificial Intelligence for reshaping the Industry, 2024
 
+### [Diff-nst: Diffusion interleaving for deformable neural style transfer](https://andrewjohngilbert.github.io/diffnst)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/diffnst">
+  <img src="{{ site.baseurl }}/assets/images/diffnst_teaser.jpg" width="400"/>
+</a>
+</p>
+Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+
+### [Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer](https://andrewjohngilbert.github.io/aladinnst)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/aladinnst">
+  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" width="400"/>
+</a>
+</p>
+Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+
+
+### [NeAT: Neural Artistic Tracing for Beautiful Style Transfer](https://andrewjohngilbert.github.io/neat)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/neat">
+  <img src="{{ site.baseurl }}/assets/images/neat_teaser.jpg" width="400"/>
+</a>
+</p>
+Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, European Conference of Computer Vision 2024, Vision for Art (VISART VII) workshop, 2024
+
 ### [Interpretable Action Recognition on Hard to Classify Actions](https://andrewjohngilbert.github.io/InterpretActions/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/InterpretActions/">
@@ -156,15 +181,6 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, NeurIPS 2023 Workshop Self-Supervis
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
 
-### [Diff-nst: Diffusion interleaving for deformable neural style transfer](https://andrewjohngilbert.github.io/diffnst)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/diffnst">
-  <img src="{{ site.baseurl }}/assets/images/diffnst_teaser.jpg" width="400"/>
-</a>
-</p>
-Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Collomosse, arXiv abs/2307.04157, 2023
-
-
 ### [DECORAIT - DECentralized Opt-in/out Registry for AI Training](https://andrewjohngilbert.github.io/Decorait/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Decorait/">
@@ -172,27 +188,6 @@ Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Coll
 </a>
 </p>
  Kar Balan, Alex Black, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse. The 20th ACM SIGGRAPH European Conference on Visual Media Production (CVMP'23), 2023 - Best Paper
-
-
-### [Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer](https://andrewjohngilbert.github.io/aladinnst)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/aladinnst">
-  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" width="400"/>
-</a>
-</p>
-Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, arXiv abs/2304.05755, 2023
-
-
-
-### [NeAT: Neural Artistic Tracing for Beautiful Style Transfer](https://andrewjohngilbert.github.io/neat)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/neat">
-  <img src="{{ site.baseurl }}/assets/images/neat_teaser.jpg" width="400"/>
-</a>
-</p>
-Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, arXiv abs/2304.05139, 2023
-
-
 
 ### [Ekila: synthetic media provenance and attribution for generative art](https://andrewjohngilbert.github.io/ekila)
 <p align="left">
