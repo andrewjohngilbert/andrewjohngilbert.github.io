@@ -56,7 +56,7 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
   <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" width="400"/>
 </a>
 </p>
-Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (BMVC'24) 2024
+Mona Ahmadian, Frank Guerin, Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) 2024
 
 ### [Interpretable Long-term Action Quality Assessment](https://andrewjohngilbert.github.io/InterpretAQA/)
 <p align="left">
@@ -64,7 +64,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (B
   <img src="{{ site.baseurl }}/assets/images/IntrpretAQATeaser.png" width="400"/>
 </a>
 </p>
-Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, British Machine Vision Confernce (BMVC'24) 2024
+Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) 2024
 
 ### [PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models](https://andrewjohngilbert.github.io/PDFed/)
 <p align="left">
