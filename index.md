@@ -66,6 +66,22 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (B
 </p>
 Xu Dong, British Machine Vision Confernce (BMVC'24) 2024
 
+### [PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models](https://andrewjohngilbert.github.io/PDFed/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/PDFed/">
+  <img src="{{ site.baseurl }}/assets/images/PDFed_Teaser.jpg" width="400"/>
+</a>
+</p>
+Kar Balan, Andrew Gilbert, John Collomosse, Conference on Visual Media Production (CVMP'24) 2024
+
+### [Detection and Re-Identification in the case of Horse Racing](https://andrewjohngilbert.github.io/HelmetDetect/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/HelmetDetect/">
+  <img src="{{ site.baseurl }}/assets/images/HelmetDetect_Teaser.jpg" width="400"/>
+</a>
+</p>
+Will Binning, Sadegh Rahmani, Xu Dong, Andrew Gilbert, Conference on Visual Media Production (CVMP'24) 2024
+
 ### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/BBox/">
