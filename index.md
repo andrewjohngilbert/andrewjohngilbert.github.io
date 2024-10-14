@@ -61,7 +61,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (B
 ### [Interpretable Long-term Action Quality Assessment](https://andrewjohngilbert.github.io/InterpretAQA/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/InterpretAQA/">
-  <img src="{{ site.baseurl }}/assets/images/InterpretAQA_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/IntrpretActionTeaser.png" width="400"/>
 </a>
 </p>
 Xu Dong, British Machine Vision Confernce (BMVC'24) 2024
