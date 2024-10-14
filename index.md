@@ -64,7 +64,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, British Machine Vision Confernce (B
   <img src="{{ site.baseurl }}/assets/images/IntrpretActionTeaser.png" width="400"/>
 </a>
 </p>
-Xu Dong, British Machine Vision Confernce (BMVC'24) 2024
+Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, British Machine Vision Confernce (BMVC'24) 2024
 
 ### [PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models](https://andrewjohngilbert.github.io/PDFed/)
 <p align="left">
