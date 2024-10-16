@@ -278,11 +278,12 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern …	15	2018
 
 ## 2017
 ### [Total capture: 3d human pose estimation fusing video and inertial sensors](https://cvssp.org/projects/totalcapture/TotalCapture/)
-<p align="left">
+<!--<p align="left">
 <a href="[https://cvssp.org/projects/totalcapture/TotalCapture/]">
   <img src="{{ site.baseurl }}/assets/images/RethinkingGenre_teaser.png3" width="400"/>
 </a>
 </p>
+-->
 M Trumble, A Gilbert, C Malleson, A Hilton, J Collomosse. Proceedings of 28th British Machine Vision Conference, 1-13	290	2017
 
 
