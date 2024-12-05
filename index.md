@@ -50,6 +50,19 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
 
 ## 2024
 
+### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
+<p align="left">
+<a href="https://soon-yau.github.io/CameraMotionGuidance/">
+  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.gif" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControl052.gif" width="256"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControl055.gif" width="256"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControl043.gif" width="256"/>
+
+</a>
+</p>
+Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huang, Arxiv Preprint 2410.10802, 2024
+
+
 ### [FILS: Self-Supervised Video Feature Prediction In Semantic Language Space](https://andrewjohngilbert.github.io/FILS/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/FILS/">
@@ -64,7 +77,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, The 35th British Machine Vision Con
   <img src="{{ site.baseurl }}/assets/images/IntrpretAQATeaser.png" width="400"/>
 </a>
 </p>
-Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) 2024
+Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) (Oral) 2024
 
 ### [PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models](https://andrewjohngilbert.github.io/PDFed/)
 <p align="left">
