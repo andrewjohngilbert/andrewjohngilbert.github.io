@@ -53,11 +53,9 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
 ### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
 <p align="left">
 <a href="https://soon-yau.github.io/CameraMotionGuidance/">
-  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.gif" width="400"/>
-  <img src="{{ site.baseurl }}/assets/images/CamControl052.gif" width="256"/>
-  <img src="{{ site.baseurl }}/assets/images/CamControl055.gif" width="256"/>
-  <img src="{{ site.baseurl }}/assets/images/CamControl043.gif" width="256"/>
-
+  <img src="{{ site.baseurl }}/assets/images/CamControl052.gif" width="175"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControl055.gif" width="175"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControl043.gif" width="175"/>
 </a>
 </p>
 Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huang, Arxiv Preprint 2410.10802, 2024
