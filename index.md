@@ -14,7 +14,6 @@ Dr Gilbert's extensive research ranges from intelligent creative arts, such as [
 
 Moreover, Dr. Gilbert is an active [British Machine Vision Association (BMVA)](http://www.bmva.org/) (BMVA) Executive Committee member and coordinates the national [BMVA technical meetings](https://www.bmva.org/meetings). These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning. 
 
-
 # PhD Students
 I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding, but more often than not, it has more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, email me. I am happy to work with high-calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
 
