@@ -19,13 +19,16 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 
 ## Current PhD Students
 
-- Adrienne Deganutti - Long Term Video Captioning 2023
-- Xu Dong - Group Activity Recognition in Video 2023
+- [Oberon Buckingham-West](https://www.linkedin.com/in/oberon-dsbw) - Adaptive Game Engines for Personalised Learning 2024
+- [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
+- [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
+- [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspire Video Understanding 2023
 - [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
-- Kar Balan - Decentralized virtual content Understanding for Blockchain- 2021
+- [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
+- [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
-- Tony Orme - Temporal Prediction of IP packets in network switches - 2019
+- [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
 - [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
@@ -37,7 +40,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
 # Gilbertine Weekend Away
-Working together is cruical for my lab and PhD student, so we go on a yearly trip away
+Working together is crucial for my lab and PhD student, so we go on a yearly trip away
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/">
   <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="300"/>
@@ -46,6 +49,24 @@ Working together is cruical for my lab and PhD student, so we go on a yearly tri
 
 
 # Research Updates
+
+## 2025
+
+### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/Multitwine/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Multitwine/">
+  <img src="{{ site.baseurl }}/assets/images/CamControlBosting.png" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, H Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
+
+### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/MultiNeRF/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/MultiNeRF/">
+  <img src="{{ site.baseurl }}/assets/images/CamControlBosting.png" width="400"/>
+</a>
+</p>
+Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Learning Representations (ICLR'25) - The 1st Workshop on GenAI Watermarking, 2025
 
 ## 2024
 
