@@ -59,7 +59,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 ### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/DANTE-AD/">
-  <img src="{{ site.baseurl }}/assets/images/DANTE-AD.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/DANTE-ADWideTeaser.jpg" width="400"/>
 </a>
 </p>
 Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, Arxiv Preprint X.X, 2025
