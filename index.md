@@ -76,7 +76,7 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, H Zhang, Andrew Gilbert, John Collomosse
 ### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/MultiNeRF/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/MultiNeRF/">
-  <img src="{{ site.baseurl }}/assets/images/CamControlBosting.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/MultiNerf-teaser.png" width="400"/>
 </a>
 </p>
 Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Learning Representations (ICLR'25) - The 1st Workshop on GenAI Watermarking, 2025
