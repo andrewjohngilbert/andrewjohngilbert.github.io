@@ -71,7 +71,7 @@ Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, Arxiv Preprint 2503.24096, 2
   <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" width="400"/>
 </a>
 </p>
-Gemma C Tarrés, Zhe Lin, Zhifei Zhang, H Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
 
 ### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/multinerf/)
 <p align="left">
