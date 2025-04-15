@@ -62,7 +62,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
   <img src="{{ site.baseurl }}/assets/images/DANTE-ADWideTeaser.jpg" width="400"/>
 </a>
 </p>
-Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, Arxiv Preprint X.X, 2025
+Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, Arxiv Preprint 2503.24096, 2025
 
 
 ### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/Multitwine/)
