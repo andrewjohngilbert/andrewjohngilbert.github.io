@@ -56,6 +56,14 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2025
 
+### [Human vs. Machine Minds: Ego-Centric Action Recognition Compared](https://andrewjohngilbert.github.io/HumanvsMachineMinds/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/HumanvsMachineMinds/">
+  <img src="{{ site.baseurl }}/assets/images/HumanvsMachineMindsTeaserWide.jpg" width="400"/>
+</a>
+</p>
+Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on Multimodal Algorithmic Reasoning (MAR'25) , 2025
+
 ### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/DANTE-AD/">
