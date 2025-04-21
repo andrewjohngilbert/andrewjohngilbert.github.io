@@ -1,119 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-		<url>
-			<loc>https://andrewjohngilbert.github.io/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-		<url>
-			<loc>https://andrewjohngilbert.github.io/aladinnst/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
 
-		<url>
-			<loc>https://andrewjohngilbert.github.io/rethinking_genre/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/</loc>
+  <lastmod>2025-04-16T19:44:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/DANTE-AD/</loc>
+  <lastmod>2025-04-16T08:36:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/neat/</loc>
+  <lastmod>2025-04-21T20:27:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Rethinking_genre/</loc>
+  <lastmod>2024-07-25T09:46:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/gilbertineweekendaway2024/</loc>
+  <lastmod>2024-07-18T08:48:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/mofo/</loc>
+  <lastmod>2024-07-25T09:44:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/HumanvsMachineMinds/</loc>
+  <lastmod>2025-04-16T10:20:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/multitwine/</loc>
+  <lastmod>2025-04-16T08:34:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/multinerf/</loc>
+  <lastmod>2025-04-16T10:47:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/FILS/</loc>
+  <lastmod>2024-11-19T08:57:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretAQA/</loc>
+  <lastmod>2024-12-05T11:37:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/PDFed/</loc>
+  <lastmod>2024-10-14T09:33:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/HelmetDetect/</loc>
+  <lastmod>2025-03-31T08:21:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/BBox/</loc>
+  <lastmod>2024-11-19T08:48:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/diffnst/</loc>
+  <lastmod>2025-04-21T20:35:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/aladinnst/</loc>
+  <lastmod>2024-10-14T13:13:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretActions/</loc>
+  <lastmod>2024-10-14T10:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/dear/</loc>
+  <lastmod>2024-09-29T05:58:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/RapidElephant/</loc>
+  <lastmod>2024-07-25T09:46:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/PLOT-TAL/</loc>
+  <lastmod>2024-07-25T09:45:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Multi-TAL/</loc>
+  <lastmod>2024-07-25T09:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Decorait/</loc>
+  <lastmod>2024-05-09T07:12:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/ekila/</loc>
+  <lastmod>2024-10-14T09:05:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/neat/assets/NeAT_Neural_Artistic_Tracing_for_Beautiful_Style_Transfer_Paper.pdf</loc>
+  <lastmod>2025-04-21T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/neat/assets/neat_poster.pdf</loc>
+  <lastmod>2025-04-21T20:27:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Rethinking_genre/assets/icip21_ed_fish_rethinking_genre_classification.pdf</loc>
+  <lastmod>2024-07-25T09:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Rethinking_genre/assets/icip21_ed_fish_rethinking_genre_classification_POster.pdf</loc>
+  <lastmod>2024-07-25T09:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/mofo/assets/MOFO_MOtion_FOcused_Self-Supervision_for_Video_Paper.pdf</loc>
+  <lastmod>2024-07-25T09:44:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/mofo/assets//MOFO_MOtion_FOcused_Self-Supervision_for_Video_SuppMat.pdf</loc>
+  <lastmod>2024-07-25T09:44:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/mofo/assets/MOFO_MOtion_FOcused_Self-Supervision_for_Video_Poster.pdf</loc>
+  <lastmod>2024-07-25T09:44:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/HumanvsMachineMinds/assets/HumanvsMachineMindsPaper.pdf</loc>
+  <lastmod>2025-04-16T10:20:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/multitwine/assets/Mutitwine_Paper.pdf</loc>
+  <lastmod>2025-04-16T08:34:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/multinerf/assets/MultiNerf-Paper.pdf</loc>
+  <lastmod>2025-04-16T10:47:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/multinerf/assets/MultiNerf-Posterv1.pdf</loc>
+  <lastmod>2025-04-16T10:47:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/FILS/assets/FILSPaper.pdf</loc>
+  <lastmod>2024-11-19T08:57:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/FILS/assets/FILS_Poster.pdf</loc>
+  <lastmod>2024-11-19T08:57:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretAQA/assets/IntrpretAQActionPaper.pdf</loc>
+  <lastmod>2024-12-05T11:37:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretAQA/assets/InterpretActions_Poster.pdf</loc>
+  <lastmod>2024-12-05T11:37:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretAQA/assets/IntrpretAQAPOwerpoint.pdf</loc>
+  <lastmod>2024-12-05T11:37:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/PDFed/assets/PDFed_CVMPPaper.pdf</loc>
+  <lastmod>2024-10-14T09:33:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/HelmetDetect/assets/WillHorseDetectionCVMPPaper.pdf</loc>
+  <lastmod>2025-03-31T08:21:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/HelmetDetect/assets/HelmetDetectPoster.pdf</loc>
+  <lastmod>2025-03-31T08:21:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/BBox/assets/ECCV_2024_Outside_the_BBox_Camera_Ready.pdf</loc>
+  <lastmod>2024-11-19T08:48:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/BBox/assets/bbox_poster.pdf</loc>
+  <lastmod>2024-11-19T08:48:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/diffnst/assets/DIFF-NST_Diffusion_Interleaving_For_deFormable_Paper.pdf</loc>
+  <lastmod>2025-04-21T20:35:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/aladinnst/assets/ALADIN-NST_Self-supervised_disentangled_representation_learning_of_artistic_Paper.pdf</loc>
+  <lastmod>2024-10-14T13:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/aladinnst/assets/aladinnst_poster.pdf</loc>
+  <lastmod>2024-10-14T13:13:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretActions/assets/InterpretActions_Paper.pdf</loc>
+  <lastmod>2024-10-14T10:55:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/InterpretActions/assets/InterpretActions_Poster.pdf</loc>
+  <lastmod>2024-10-14T10:55:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/dear/assets/dear_paper.pdf</loc>
+  <lastmod>2024-09-29T05:58:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/dear/assets/DEAR%20HCV%20Poster.pdf</loc>
+  <lastmod>2024-09-29T05:58:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/RapidElephant/assets/BMSB2024.pdf</loc>
+  <lastmod>2024-07-25T09:46:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/PLOT-TAL/assets/ECCV_2024___Optimal_Transport_TALSuppMat.pdf</loc>
+  <lastmod>2024-07-25T09:45:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Multi-TAL/assets/Multi_Resolution_Audio_Visual_Feature_Fusion_for_Temporal_Action_Localization.pdf</loc>
+  <lastmod>2024-07-25T09:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Multi-TAL/assets/Multi_Resolution_Audio_Visual_Feature_Fusion_for_Temporal_Action_Localization_SuppMat.pdf</loc>
+  <lastmod>2024-07-25T09:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Multi-TAL/assets/Multi_Resolution_Audio_Visual_Feature_Fusion_for_Temporal_Action_Localization_Poster.pdf</loc>
+  <lastmod>2024-07-25T09:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/Decorait/assets/CVMP_DECORAIT.pdf</loc>
+  <lastmod>2024-05-09T07:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/ekila/assets/EKILA_Synthetic_Media_Provenance_and_Attribution_for_Generative_Art_Paper.pdf</loc>
+  <lastmod>2024-10-14T09:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://andrewjohngilbert.github.io/ekila/assets/Ekila_Poster.pdf</loc>
+  <lastmod>2024-10-14T09:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-		<url>
-			<loc>https://andrewjohngilbert.github.io/mofo/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
 
-		<url>
-			<loc>https://andrewjohngilbert.github.io/gilbertineweekendaway2024/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/fils/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/interpretaqa/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/pdfed/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/helmetdetect/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/bbox/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/diffnst</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/aladinnst</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/neat</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/interpretactions/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/dear/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/aear/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/rapidelephant/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/plot-tal/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/multi-tal/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/decorait/</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/ekila</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/rethinking_genre</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://andrewjohngilbert.github.io/[https://cvssp.org/projects/totalcapture/totalcapture/]</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-	</urlset>
-
+</urlset>
