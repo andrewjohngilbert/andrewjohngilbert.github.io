@@ -43,7 +43,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Phil Krejov](https://www.linkedin.com/in/krejov/) - 2012
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
-<p align="center">
+<p align="left">
 <img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg" width="300" alt="Ed Fish and Soon Graduation Andrew Gilbert"/>
 </p>
 
@@ -61,6 +61,14 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2025
 
+### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/multitwine/">
+  <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" width="400"/>
+</a>
+</p>
+Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
+
 ### [Human vs. Machine Minds: Ego-Centric Action Recognition Compared](https://andrewjohngilbert.github.io/HumanvsMachineMinds/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/HumanvsMachineMinds/">
@@ -75,16 +83,7 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/C
   <img src="{{ site.baseurl }}/assets/images/DANTE-ADWideTeaser.jpg" width="400"/>
 </a>
 </p>
-Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, Arxiv Preprint 2503.24096, 2025
-
-
-### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/multitwine/">
-  <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" width="400"/>
-</a>
-</p>
-Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
+Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on AI for Content Creation Workshop (AICC'25), 2025
 
 ### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/multinerf/)
 <p align="left">
