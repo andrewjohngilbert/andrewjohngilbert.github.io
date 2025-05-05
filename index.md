@@ -85,6 +85,14 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/C
 </p>
 Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on AI for Content Creation Workshop (AICC'25), 2025
 
+### [Content ARCs: Decentralized Content Rights in the Age of Generative AI ](https://andrewjohngilbert.github.io/ContentARCs/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/ContentARCs/">
+  <img src="{{ site.baseurl }}/assets/images/ContentARCs_Teaser.png" width="400"/>
+</a>
+</p>
+Kar Balan, Andrew Gilbert, John Collomosse, International Conference on AI and the Digital Economy (CADE'25) 2025
+
 ### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/multinerf/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/multinerf/">
