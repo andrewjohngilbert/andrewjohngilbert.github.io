@@ -10,7 +10,7 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 Dr Andrew Gilbert is an Associate Professor in Machine Learning at the University of Surrey, where he co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)). His [research](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ) lies at the intersection of computer vision, generative modelling, and multimodal learning, with a particular focus on building interpretable and human-centred AI systems. His work aims to develop machines that not only see and recognise the world, but also understand and creatively respond to it.
 
-Dr Gilbert has made significant contributions to the fields of video understanding, , [long-form video captioning](https://andrewjohngilbert.github.io/DANTE-AD/), [visual style modelling](https://andrewjohngilbert.github.io/neat), and [AI-driven story understanding](https://andrewjohngilbert.github.io/Rethinking_genre/). A distinctive feature of his research is its integration into the creative industries, applying technical advances to domains such as media production, [performance capture](https://cvssp.org/projects/totalcapture/TotalCapture/)), and digital arts. From training models to [classify genre from movie trailers](https://andrewjohngilbert.github.io/Rethinking_genre/) to designing systems that can [generate synthetic images](https://andrewjohngilbert.github.io/Multitwine/) and narrative content, his work consistently pushes the boundaries of how AI can support and enhance human creativity.
+Dr Gilbert has made significant contributions to the fields of video understanding, , [long-form video captioning](https://andrewjohngilbert.github.io/DANTE-AD/), [visual style modelling](https://andrewjohngilbert.github.io/neat), and [AI-driven story understanding](https://andrewjohngilbert.github.io/Rethinking_genre/). A distinctive feature of his research is its integration into the creative industries, applying technical advances to domains such as media production, [performance capture](https://cvssp.org/projects/totalcapture/TotalCapture/), and digital arts. From training models to [classify genre from movie trailers](https://andrewjohngilbert.github.io/Rethinking_genre/) to designing systems that can [generate synthetic images](https://andrewjohngilbert.github.io/Multitwine/) and narrative content, his work consistently pushes the boundaries of how AI can support and enhance human creativity.
 
 He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilbertineweekendaway2024/) of PhD students, collaborating on cutting-edge projects in areas such as [self-supervised learning from video](https://andrewjohngilbert.github.io/mofo/), [video diffusion models](https://soon-yau.github.io/CameraMotionGuidance/), and multimodal scene understanding. Many of these projects are conducted in close partnership with creative practitioners, industry partners, and other academic disciplines, reflecting Dr Gilbert’s commitment to interdisciplinary and impact-driven research.
 
@@ -28,13 +28,13 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspire Video Understanding 2023
 - [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
-- [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
-- [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
+- [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
+- [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
 - [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
 - [Violeta Menendez Gonzalez](https://www.linkedin.com/in/violetamenendez/) - Novel viewpoint and stereo inpainting - 2019
@@ -42,6 +42,11 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Mat Trumble](http://scholar.google.co.uk/citations?user=iKylkAgAAAAJ) - 2015
 - [Phil Krejov](https://www.linkedin.com/in/krejov/) - 2012
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
+
+<p align="center">
+<img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg" alt="Ed Fish and Soon Graduation Andrew Gilbert"/>
+</p>
+
 
 # Gilbertine Weekend Away
 Working together is crucial for my lab and PhD student, so we go on a yearly trip away
