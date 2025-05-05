@@ -44,7 +44,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg" alt="Ed Fish and Soon Graduation Andrew Gilbert"/>
+<img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg" width="300" alt="Ed Fish and Soon Graduation Andrew Gilbert"/>
 </p>
 
 
