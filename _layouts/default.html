@@ -2,6 +2,13 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
+  {% seo %}
+  {% include head-custom.html %}
+
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+{% endif %}
+
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,maximum-scale=2">
@@ -19,14 +26,17 @@
   <meta property="og:image" content="{{ site.baseurl }}/assets/images/EdDinner.jpg">
   <meta property="og:url" content="https://andrewjohngilbert.github.io/">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dr. Andrew Gilbert - Machine Learning and AI Research">
+  <meta name="twitter:description" content="Explore Dr. Andrew Gilbert's research in computer vision, generative modeling, and interdisciplinary AI.">  
 
 
-  {% seo %}
-  {% include head-custom.html %}
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>Dr. Andrew Gilbert</h1>
+    <p>Associate Professor in Machine Learning | Researcher in AI, Computer Vision, and Generative Modeling</p>
+  </div>
+</div>
 
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-  {% include analytics.html %}
-{% endif %}
 </head>
 
   <body>
