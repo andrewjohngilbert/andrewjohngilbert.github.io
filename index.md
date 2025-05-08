@@ -18,6 +18,11 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 # Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
 
+- <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+- <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a>
+- <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+- <a href="https://scholar.google.com/citations?user=NNhnVwoAAAAJ&hl=en&inst=15262737669262836719" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+
 Dr Andrew Gilbert is an Associate Professor in Machine Learning at the University of Surrey, where he co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)). His [research](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ) lies at the intersection of computer vision, generative modelling, and multimodal learning, with a particular focus on building interpretable and human-centred AI systems. His work aims to develop machines that not only see and recognise the world, but also understand and creatively respond to it.
 
 Dr Gilbert has made significant contributions to the fields of video understanding, , [long-form video captioning](https://andrewjohngilbert.github.io/DANTE-AD/), [visual style modelling](https://andrewjohngilbert.github.io/neat), and [AI-driven story understanding](https://andrewjohngilbert.github.io/Rethinking_genre/). A distinctive feature of his research is its integration into the creative industries, applying technical advances to domains such as media production, [performance capture](https://cvssp.org/projects/totalcapture/TotalCapture/), and digital arts. From training models to [classify genre from movie trailers](https://andrewjohngilbert.github.io/Rethinking_genre/) to designing systems that can [generate synthetic images](https://andrewjohngilbert.github.io/Multitwine/) and narrative content, his work consistently pushes the boundaries of how AI can support and enhance human creativity.
@@ -47,10 +52,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 ## Contact Me
 Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@surrey.ac.uk) to discuss opportunities.
 
-## Follow Me
-- <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-- <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a>
-- <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+
 
 
 ## Featured Projects
