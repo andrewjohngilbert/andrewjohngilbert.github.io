@@ -1,4 +1,6 @@
 
+# Dr. Andrew Gilbert
+### Exploring the intersection of AI, creativity, and human-centered design
 
 
 
