@@ -1,12 +1,4 @@
-<meta name="description" content="Dr. Andrew Gilbert's official page showcasing research in machine learning, computer vision, generative modeling, and interdisciplinary AI applications.">
-<meta name="keywords" content="Andrew Gilbert, machine learning, computer vision, generative modeling, AI, University of Surrey, PhD students, research, creative industries, AI systems">
-<meta name="author" content="Dr. Andrew Gilbert">
 
-<meta property="og:title" content="Dr. Andrew Gilbert - Machine Learning and AI Research">
-<meta property="og:description" content="Explore Dr. Andrew Gilbert's research in computer vision, generative modeling, and interdisciplinary AI.">
-<meta property="og:image" content="{{ site.baseurl }}/assets/images/EdDinner.jpg">
-<meta property="og:url" content="https://andrewjohngilbert.github.io/">
-<meta name="twitter:card" content="summary_large_image">
 
 
 

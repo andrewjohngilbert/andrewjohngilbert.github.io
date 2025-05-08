@@ -8,7 +8,18 @@
   <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
   <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="Dr Andrew Gilbert, Associate Professor in Machine Learning, researching human and computer vision, activity recognition, and explainable AI.">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.feed_url | absolute_url }}">  
+  <meta name="description" content="Dr. Andrew Gilbert's official page showcasing research in machine learning, computer vision, generative modeling, and interdisciplinary AI applications.">
+  <meta name="keywords" content="Andrew Gilbert, machine learning, computer vision, generative modeling, AI, University of Surrey, PhD students, research, creative industries, AI systems">
+  <meta name="author" content="Dr. Andrew Gilbert">
+  
+  <meta property="og:title" content="Dr. Andrew Gilbert - Machine Learning and AI Research">
+  <meta property="og:description" content="Explore Dr. Andrew Gilbert's research in computer vision, generative modeling, and interdisciplinary AI.">
+  <meta property="og:image" content="{{ site.baseurl }}/assets/images/EdDinner.jpg">
+  <meta property="og:url" content="https://andrewjohngilbert.github.io/">
+  <meta name="twitter:card" content="summary_large_image">
+
 
   {% seo %}
   {% include head-custom.html %}
