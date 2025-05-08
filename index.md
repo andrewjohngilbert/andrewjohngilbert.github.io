@@ -8,8 +8,6 @@
 <meta property="og:url" content="https://andrewjohngilbert.github.io/">
 <meta name="twitter:card" content="summary_large_image">
 
-Sitemap: https://andrewjohngilbert.github.io/sitemap.xml
-
 
 
 <p align="center">
