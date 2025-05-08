@@ -13,15 +13,18 @@
 <p align="center">
 <img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
 </p>
-[Centre for Creative Arts and Technologies](https://c-cats.ac/)
+[<i class="fas fa-map-marker-alt"></i> Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
-
-# Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
 
 - <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 - <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a>
 - <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 - <a href="https://scholar.google.com/citations?user=NNhnVwoAAAAJ&hl=en&inst=15262737669262836719" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+
+
+# Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
+
+
 
 Dr Andrew Gilbert is an Associate Professor in Machine Learning at the University of Surrey, where he co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)). His [research](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ) lies at the intersection of computer vision, generative modelling, and multimodal learning, with a particular focus on building interpretable and human-centred AI systems. His work aims to develop machines that not only see and recognise the world, but also understand and creatively respond to it.
 
