@@ -113,10 +113,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
 
-<div class="image-text-container">
-  <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" alt="Multitwine Teaser">
-  <p>A groundbreaking project enabling AI-driven compositing with precise text and layout control.</p>
-</div>
+
 
 ### [Human vs. Machine Minds: Ego-Centric Action Recognition Compared](https://andrewjohngilbert.github.io/HumanvsMachineMinds/)
 <p align="left">
