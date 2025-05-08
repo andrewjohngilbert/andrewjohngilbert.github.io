@@ -28,6 +28,19 @@
 }
 </script>
 
+<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+<script>
+  function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+  }
+</script>
+<style>
+  .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+</style>
+
 # robots.txt
 Sitemap: https://andrewjohngilbert.github.io/sitemap.xml
 
@@ -47,6 +60,11 @@ He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilber
 
 In addition to his research leadership, Dr Gilbert is an active contributor to the UK computer vision community. He serves on the [British Machine Vision Association (BMVA)](http://www.bmva.org/) Executive Committee, where he organises [national technical meetings](https://www.bmva.org/meetings) to foster collaboration between academia and industry. Through this work, he helps shape the research agenda for future AI systems that are explainable, responsible, and aligned with human values.
 
+## Key Achievements
+- Co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)).
+- Published over 100 research papers in top-tier conferences and journals.
+- Best Paper Award at CVMP 2023 for [DECORAIT](https://andrewjohngilbert.github.io/Decorait/).
+- Active contributor to the [British Machine Vision Association (BMVA)](http://www.bmva.org/).
 
 
 # PhD Students
@@ -54,6 +72,19 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 
 ## Contact Me
 Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@surrey.ac.uk) to discuss opportunities.
+
+## Follow Me
+- [LinkedIn](https://www.linkedin.com/in/andrew-gilbert)
+- [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ)
+- [GitHub](https://github.com/andrewjohngilbert)
+
+
+## Featured Projects
+### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
+A groundbreaking project enabling AI-driven compositing with precise text and layout control.
+
+### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
+A novel approach to long-term video captioning using dual-vision attention networks.
 
 ## Current PhD Students
 
