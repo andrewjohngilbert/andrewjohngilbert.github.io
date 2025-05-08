@@ -10,14 +10,6 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://scholar.google.com/citations?user=NNhnVwoAAAAJ&hl=en&inst=15262737669262836719" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
 
-## Table of Contents
-1. [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research)
-2. [PhD Students](#phd-students)
-3. [Contact Me](#contact-me)
-4. [Research Updates](#research-updates)
-5. [Gilbertine Weekend Away](#gilbertine-weekend-away)
-6. [Publications](#publications)
-
 [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research) [PhD Students](#phd-students) [Contact Me](#contact-me) [Research Updates](#research-updates) [Gilbertine Weekend Away](#gilbertine-weekend-away) [Publications](#publications)
 
 
