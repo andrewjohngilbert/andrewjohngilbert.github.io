@@ -8,25 +8,7 @@
 <meta property="og:url" content="https://andrewjohngilbert.github.io/">
 <meta name="twitter:card" content="summary_large_image">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Dr. Andrew Gilbert",
-  "jobTitle": "Associate Professor in Machine Learning",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Surrey"
-  },
-  "url": "https://andrewjohngilbert.github.io/",
-  "sameAs": [
-    "https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ",
-    "https://www.linkedin.com/in/andrew-gilbert",
-    "https://c-cats.ac/"
-  ],
-  "description": "Dr. Andrew Gilbert specializes in machine learning, computer vision, and interdisciplinary AI research."
-}
-</script>
+
 
 <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 <script>
@@ -59,6 +41,14 @@ Dr Gilbert has made significant contributions to the fields of video understandi
 He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilbertineweekendaway2024/) of PhD students, collaborating on cutting-edge projects in areas such as [self-supervised learning from video](https://andrewjohngilbert.github.io/mofo/), [video diffusion models](https://soon-yau.github.io/CameraMotionGuidance/), and multimodal scene understanding. Many of these projects are conducted in close partnership with creative practitioners, industry partners, and other academic disciplines, reflecting Dr Gilbert’s commitment to interdisciplinary and impact-driven research.
 
 In addition to his research leadership, Dr Gilbert is an active contributor to the UK computer vision community. He serves on the [British Machine Vision Association (BMVA)](http://www.bmva.org/) Executive Committee, where he organises [national technical meetings](https://www.bmva.org/meetings) to foster collaboration between academia and industry. Through this work, he helps shape the research agenda for future AI systems that are explainable, responsible, and aligned with human values.
+
+## Table of Contents
+1. [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research)
+2. [PhD Students](#phd-students)
+3. [Contact Me](#contact-me)
+4. [Research Updates](#research-updates)
+5. [Gilbertine Weekend Away](#gilbertine-weekend-away)
+6. [Publications](#publications)
 
 ## Key Achievements
 - Co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)).
