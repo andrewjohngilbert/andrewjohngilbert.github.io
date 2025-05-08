@@ -8,10 +8,17 @@
 [<i class="fas fa-map-marker-alt"></i> Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
 
-- <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-- <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a>
-- <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-- <a href="https://scholar.google.com/citations?user=NNhnVwoAAAAJ&hl=en&inst=15262737669262836719" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+<a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a> <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a> <a href="https://scholar.google.com/citations?user=NNhnVwoAAAAJ&hl=en&inst=15262737669262836719" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+
+## Table of Contents
+1. [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research)
+2. [PhD Students](#phd-students)
+3. [Contact Me](#contact-me)
+4. [Research Updates](#research-updates)
+5. [Gilbertine Weekend Away](#gilbertine-weekend-away)
+6. [Publications](#publications)
+
+[Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research) [PhD Students](#phd-students) [Contact Me](#contact-me) [Research Updates](#research-updates) [Gilbertine Weekend Away](#gilbertine-weekend-away) [Publications](#publications)
 
 
 # Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
@@ -26,13 +33,6 @@ He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilber
 
 In addition to his research leadership, Dr Gilbert is an active contributor to the UK computer vision community. He serves on the [British Machine Vision Association (BMVA)](http://www.bmva.org/) Executive Committee, where he organises [national technical meetings](https://www.bmva.org/meetings) to foster collaboration between academia and industry. Through this work, he helps shape the research agenda for future AI systems that are explainable, responsible, and aligned with human values.
 
-## Table of Contents
-1. [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research)
-2. [PhD Students](#phd-students)
-3. [Contact Me](#contact-me)
-4. [Research Updates](#research-updates)
-5. [Gilbertine Weekend Away](#gilbertine-weekend-away)
-6. [Publications](#publications)
 
 ## Key Achievements
 - Co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)).
