@@ -4,8 +4,7 @@
 
 
 
-<p align="center">
-<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
+
 </p>
 [<i class="fas fa-map-marker-alt"></i> Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
@@ -14,6 +13,8 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research) [PhD Students](#phd-students) [Contact Me](#contact-me) [Research Updates](#research-updates) [Gilbertine Weekend Away](#gilbertine-weekend-away) [Publications](#publications)
 
+<p align="center">
+<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
 
 # Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
 
