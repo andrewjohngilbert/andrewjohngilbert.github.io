@@ -8,10 +8,9 @@
 <meta property="og:url" content="https://andrewjohngilbert.github.io/">
 <meta name="twitter:card" content="summary_large_image">
 
-
-
-# robots.txt
 Sitemap: https://andrewjohngilbert.github.io/sitemap.xml
+
+
 
 <p align="center">
 <img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
