@@ -1,12 +1,43 @@
+<meta name="description" content="Dr. Andrew Gilbert's official page showcasing research in machine learning, computer vision, generative modeling, and interdisciplinary AI applications.">
+<meta name="keywords" content="Andrew Gilbert, machine learning, computer vision, generative modeling, AI, University of Surrey, PhD students, research, creative industries, AI systems">
+<meta name="author" content="Dr. Andrew Gilbert">
 
+<meta property="og:title" content="Dr. Andrew Gilbert - Machine Learning and AI Research">
+<meta property="og:description" content="Explore Dr. Andrew Gilbert's research in computer vision, generative modeling, and interdisciplinary AI.">
+<meta property="og:image" content="{{ site.baseurl }}/assets/images/EdDinner.jpg">
+<meta property="og:url" content="https://andrewjohngilbert.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. Andrew Gilbert",
+  "jobTitle": "Associate Professor in Machine Learning",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Surrey"
+  },
+  "url": "https://andrewjohngilbert.github.io/",
+  "sameAs": [
+    "https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ",
+    "https://www.linkedin.com/in/andrew-gilbert",
+    "https://c-cats.ac/"
+  ],
+  "description": "Dr. Andrew Gilbert specializes in machine learning, computer vision, and interdisciplinary AI research."
+}
+</script>
+
+# robots.txt
+Sitemap: https://andrewjohngilbert.github.io/sitemap.xml
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="andrew gilbert"/>
+<img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
 </p>
 [Centre for Creative Arts and Technologies](https://c-cats.ac/)
 Department of Music and Media, Faculty of Arts and Social Sciences, University of Surrey
 
-# Biography
+# Biography of Dr. Andrew Gilbert - Machine Learning and AI Research
 
 Dr Andrew Gilbert is an Associate Professor in Machine Learning at the University of Surrey, where he co-leads the interdisciplinary Centre for Creative Arts and Technologies ([C-CATS](https://c-cats.ac/)). His [research](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ) lies at the intersection of computer vision, generative modelling, and multimodal learning, with a particular focus on building interpretable and human-centred AI systems. His work aims to develop machines that not only see and recognise the world, but also understand and creatively respond to it.
 
@@ -20,6 +51,9 @@ In addition to his research leadership, Dr Gilbert is an active contributor to t
 
 # PhD Students
 I'm always looking for good PhD candidates, but normally, when I have funding available, it is for UK students. This is sometimes due to restrictions on the funding, but more often than not, it has more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, email me. I am happy to work with high-calibre candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
+
+## Contact Me
+Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@surrey.ac.uk) to discuss opportunities.
 
 ## Current PhD Students
 
@@ -52,7 +86,7 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 Working together is crucial for my lab and PhD student, so we go on a yearly trip away
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/">
-  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" width="300"/>
+  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" loading="lazy" width="300"/>
 </a>
 </p>
 
@@ -64,7 +98,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 ### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/multitwine/">
-  <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/mutitwine_teaserSingle.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
@@ -72,7 +106,7 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomoss
 ### [Human vs. Machine Minds: Ego-Centric Action Recognition Compared](https://andrewjohngilbert.github.io/HumanvsMachineMinds/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/HumanvsMachineMinds/">
-  <img src="{{ site.baseurl }}/assets/images/HumanvsMachineMindsTeaserWide.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/HumanvsMachineMindsTeaserWide.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on Multimodal Algorithmic Reasoning (MAR'25) , 2025
@@ -80,7 +114,7 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/C
 ### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/DANTE-AD/">
-  <img src="{{ site.baseurl }}/assets/images/DANTE-ADWideTeaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/DANTE-ADWideTeaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on AI for Content Creation Workshop (AICC'25), 2025
@@ -88,7 +122,7 @@ Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, IEEE/CVF Conference on Compu
 ### [Content ARCs: Decentralized Content Rights in the Age of Generative AI ](https://andrewjohngilbert.github.io/ContentARCs/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/ContentARCs/">
-  <img src="{{ site.baseurl }}/assets/images/ContentARCs_Teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/ContentARCs_Teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Kar Balan, Andrew Gilbert, John Collomosse, International Conference on AI and the Digital Economy (CADE'25) 2025
@@ -96,7 +130,7 @@ Kar Balan, Andrew Gilbert, John Collomosse, International Conference on AI and t
 ### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/multinerf/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/multinerf/">
-  <img src="{{ site.baseurl }}/assets/images/MultiNerf-teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/MultiNerf-teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Learning Representations (ICLR'25) - The 1st Workshop on GenAI Watermarking, 2025
@@ -106,7 +140,7 @@ Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Learni
 ### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
 <p align="left">
 <a href="https://soon-yau.github.io/CameraMotionGuidance/">
-  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.png" loading="lazy" width="400"/>
 </a>
 </p>
 Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huang, Arxiv Preprint 2410.10802, 2024
@@ -115,7 +149,7 @@ Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huan
 ### [FILS: Self-Supervised Video Feature Prediction In Semantic Language Space](https://andrewjohngilbert.github.io/FILS/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/FILS/">
-  <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Mona Ahmadian, Frank Guerin, Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) 2024
@@ -123,7 +157,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, The 35th British Machine Vision Con
 ### [Interpretable Long-term Action Quality Assessment](https://andrewjohngilbert.github.io/InterpretAQA/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/InterpretAQA/">
-  <img src="{{ site.baseurl }}/assets/images/IntrpretAQATeaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/IntrpretAQATeaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th British Machine Vision Conference (BMVC'24) (Oral) 2024
@@ -131,7 +165,7 @@ Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th 
 ### [PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models](https://andrewjohngilbert.github.io/PDFed/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/PDFed/">
-  <img src="{{ site.baseurl }}/assets/images/PDFed_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/PDFed_Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Kar Balan, Andrew Gilbert, John Collomosse, Conference on Visual Media Production (CVMP'24) 2024
@@ -139,7 +173,7 @@ Kar Balan, Andrew Gilbert, John Collomosse, Conference on Visual Media Productio
 ### [Detection and Re-Identification in the case of Horse Racing](https://andrewjohngilbert.github.io/HelmetDetect/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/HelmetDetect/">
-  <img src="{{ site.baseurl }}/assets/images/HelmetDetect_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/HelmetDetect_Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Will Binning, Sadegh Rahmani, Xu Dong, Andrew Gilbert, Conference on Visual Media Production (CVMP'24) 2024
@@ -147,7 +181,7 @@ Will Binning, Sadegh Rahmani, Xu Dong, Andrew Gilbert, Conference on Visual Medi
 ### [Thinking Outside the BBox: Unconstrained Generative Object Compositing](https://andrewjohngilbert.github.io/BBox/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/BBox/">
-  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/BBox_Teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim, European Conference on Computer Vision ECCV'24 2024
@@ -155,7 +189,7 @@ Gemma C Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, An
 ### [ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet](https://soon-yau.github.io/visconet/)
 <p align="left">
 <a href="https://soon-yau.github.io/visconet/">
-  <img src="{{ site.baseurl }}/assets/images/ViscoNet_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/ViscoNet_Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, European Conference of Computer Vision 2024, FashionAI: Exploring the intersection of Fashion and Artificial Intelligence for reshaping the Industry, 2024
@@ -163,7 +197,7 @@ Soon Cheong, Armin Mustafa, Andrew Gilbert, European Conference of Computer Visi
 ### [Diff-nst: Diffusion interleaving for deformable neural style transfer](https://andrewjohngilbert.github.io/diffnst)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/diffnst">
-  <img src="{{ site.baseurl }}/assets/images/diffnst_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/diffnst_teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
@@ -171,7 +205,7 @@ Dan Ruta, Gemma C Tarrés, Andrew Gilbert, Eli Shechtman, Nick Kolkin, John Coll
 ### [Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer](https://andrewjohngilbert.github.io/aladinnst)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/aladinnst">
-  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/aladinnst_teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
@@ -180,7 +214,7 @@ Dan Ruta, Gemma Canet Tarres, Alexander Black, Andrew Gilbert, John Collomosse, 
 ### [NeAT: Neural Artistic Tracing for Beautiful Style Transfer](https://andrewjohngilbert.github.io/neat)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/neat">
-  <img src="{{ site.baseurl }}/assets/images/neat_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/neat_teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, European Conference of Computer Vision 2024, Vision for Art (VISART VII) Workshop, 2024
@@ -188,7 +222,7 @@ Dan Ruta, Andrew Gilbert, John Collomosse, Eli Shechtman, Nicholas Kolkin, Europ
 ### [Interpretable Action Recognition on Hard to Classify Actions](https://andrewjohngilbert.github.io/InterpretActions/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/InterpretActions/">
-  <img src="{{ site.baseurl }}/assets/images/InterpretActions_Teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/InterpretActions_Teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
@@ -196,7 +230,7 @@ Anastasia Anichenko, Frank Guerin, and Andrew Gilbert, European Conference of Co
 ### [DEAR: Depth-Estimated Action Recognition](https://andrewjohngilbert.github.io/dear/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/aear/">
-  <img src="{{ site.baseurl }}/assets/images/dear_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dear_teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, European Conference of Computer Vision 2024, Human-inspired Computer Vision Workshop, 2024
@@ -204,7 +238,7 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, Europe
 ### [Towards Rapid Elephant Flow Detection Using Time Series Prediction for OTT Streaming](https://andrewjohngilbert.github.io/RapidElephant/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/RapidElephant/">
-  <img src="{{ site.baseurl }}/assets/images/BMSB2024Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/BMSB2024Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting BMSB 2024
@@ -212,7 +246,7 @@ Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE Internation
 ### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/PLOT-TAL/">
-  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
@@ -222,7 +256,7 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
 ### [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://andrewjohngilbert.github.io/Multi-TAL/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Multi-TAL/">
-  <img src="{{ site.baseurl }}/assets/images/Multi_TAL_Teaser.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/Multi_TAL_Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning for Audio, 2023
@@ -230,7 +264,7 @@ Ed Fish, Jon Weinbren, Andrew Gilbert, NeurIPS 2023 Workshop on Machine Learning
 ### [MOFO: MOtion FOcused Self-Supervisionfor Video Understanding](https://andrewjohngilbert.github.io/mofo/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/mofo/">
-  <img src="{{ site.baseurl }}/assets/images/mofo_teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/mofo_teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Mona Ahmadian, Frank Guerin, Andrew Gilbert, NeurIPS 2023 Workshop Self-Supervised Learning: Theory and Practice, 2023
@@ -238,7 +272,7 @@ Mona Ahmadian, Frank Guerin, Andrew Gilbert, NeurIPS 2023 Workshop Self-Supervis
 ### [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://github.com/soon-yau/upgpt)
 <p align="left">
 <a href="https://github.com/soon-yau/upgpt">
-  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/UPGPTmodel.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Metaverse workshop, 2023
@@ -246,7 +280,7 @@ Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Me
 ### [DECORAIT - DECentralized Opt-in/out Registry for AI Training](https://andrewjohngilbert.github.io/Decorait/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Decorait/">
-  <img src="{{ site.baseurl }}/assets/images/Decorait_teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/Decorait_teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
  Kar Balan, Alex Black, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse. The 20th ACM SIGGRAPH European Conference on Visual Media Production (CVMP'23), 2023 - Best Paper
@@ -254,7 +288,7 @@ Soon Cheong, Armin Mustafa, Andrew Gilbert, ICCVWS'23 2nd computer vision for Me
 ### [Ekila: synthetic media provenance and attribution for generative art](https://andrewjohngilbert.github.io/ekila)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/ekila">
-  <img src="{{ site.baseurl }}/assets/images/Ekila_teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/Ekila_teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Kar Balan, Shruti Agarwal, Simon Jenni, Andy Parsons, Andrew Gilbert, John Collomosse, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
@@ -290,7 +324,7 @@ arXiv preprint arXiv:2203.04907	5	2022
 ### [Rethinking genre classification with fine grained semantic clustering](https://andrewjohngilbert.github.io/Rethinking_genre)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/Rethinking_genre">
-  <img src="{{ site.baseurl }}/assets/images/RethinkingGenre_teaser.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/RethinkingGenre_teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
 Ed Fish, Jon Weinbren, Andrew Gilbert, IEEE International Conference on Image Processing (ICIP), 2021
