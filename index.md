@@ -50,9 +50,9 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@surrey.ac.uk) to discuss opportunities.
 
 ## Follow Me
-- [LinkedIn](https://www.linkedin.com/in/andrew-gilbert)
-- [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=NNhnVwoAAAAJ)
-- [GitHub](https://github.com/andrewjohngilbert)
+- <a href="https://www.linkedin.com/in/andrew-gilbert" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+- <a href="mailto:andrew.gilbert@surrey.ac.uk"><i class="fas fa-envelope"></i> Email</a>
+- <a href="https://github.com/andrewjohngilbert" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 
 
 ## Featured Projects
