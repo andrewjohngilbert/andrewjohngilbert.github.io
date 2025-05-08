@@ -10,19 +10,6 @@
 
 
 
-<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
-<script>
-  function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-  }
-</script>
-<style>
-  .dark-mode {
-    background-color: #121212;
-    color: #ffffff;
-  }
-</style>
-
 # robots.txt
 Sitemap: https://andrewjohngilbert.github.io/sitemap.xml
 
@@ -112,7 +99,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 </p>
 
 
-# Research Updates
+# Publications
 
 ## 2025
 
