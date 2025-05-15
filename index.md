@@ -513,6 +513,19 @@ O Oshin, A Gilbert, J Illingworth, R Bowden
 2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV …	26	2009
 
 ## 2008
+
+### [Scalable and Adaptable Tracking of Humans in Multiple Camera Systems](https://andrewjohngilbert.github.io/assets/images/GilbertThesis2009.pdf)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/assets/images/GilbertThesis2009.pdf">
+  <img src="{{ site.baseurl }}/assets/images/GilbertThesisTeaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Doctoral Thesis for Phd in Computer Vision of Andrew Gilbert, University of Surrey, 2008
+
+
+
+
+
 Incremental, scalable tracking of objects inter camera
 A Gilbert, R Bowden
 Computer Vision and Image Understanding 111 (1), 43-58	54	2008
