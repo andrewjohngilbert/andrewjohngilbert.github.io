@@ -539,6 +539,8 @@ Scale invariant action recognition using compound features mined from dense spat
 A Gilbert, J Illingworth, R Bowden
 Computer Vision–ECCV 2008: 10th European Conference on Computer Vision …	136	2008
 
+## 2006
+
 Tracking objects across uncalibrated arbitrary topology camera networks
 R Bowden, A Gilbert, P KaewTraKulPong
 Intelligent Distributed Video Surveillance Systems, 157-182	6	2006
