@@ -12,7 +12,8 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 [Biography](#biography-of-dr-andrew-gilbert---machine-learning-and-ai-research) [PhD Students](#phd-students) [Contact Me](#contact-me) [Research Updates](#research-updates) [Gilbertine Weekend Away](#gilbertine-weekend-away) [Publications](#publications)
 
-<p align="center">
+<p align="left">
+<img src="{{ site.baseurl }}/assets/images/Andrew Gilbert-5518best.jpg" alt="Dr. Andrew Gilbert " loading="lazy"/>
 <img src="{{ site.baseurl }}/assets/images/EdDinner.jpg" alt="Dr. Andrew Gilbert at a formal dinner" loading="lazy"/>
 </p >
 
