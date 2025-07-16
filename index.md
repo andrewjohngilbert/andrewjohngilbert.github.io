@@ -1,4 +1,3 @@
-
 # Dr. Andrew Gilbert
 ### Exploring the intersection of AI, creativity, and human-centered design
 
@@ -67,7 +66,7 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 ## Alumi
 - [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
-- [Ed Fish](https://ed-fish.github.io/) - Film Trailer Genre Understanding and Exploration - 2019
+- [Ed Fish](https://ed-fish.github.io/) - Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning - 2019
 - [Dan Ruta](https://danruta.co.uk/) - Exploring and understanding fine-grained style - 2019
 - [Violeta Menendez Gonzalez](https://www.linkedin.com/in/violetamenendez/) - Novel viewpoint and stereo inpainting - 2019
 - [Kary Ho](https://www.linkedin.com/in/kary-ho-484a3b1aa) 2019
@@ -82,10 +81,15 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 
 # Gilbertine Weekend Away
 Working together is crucial for my lab and PhD student, so we go on a yearly trip away
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/">
-  <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" loading="lazy" width="300"/>
-</a>
+<p align="left" style="display:flex; gap:10px;">
+  <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2025/" style="display:inline-block; position:relative;">
+    <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" loading="lazy" width="300" style="display:block;"/>
+    <span style="position:absolute; top:10px; left:10px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 12px; border-radius:6px; font-size:1.5em; font-weight:bold;">2025</span>
+  </a>
+  <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/" style="display:inline-block; position:relative;">
+    <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" loading="lazy" width="300" style="display:block;"/>
+    <span style="position:absolute; top:10px; left:10px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 12px; border-radius:6px; font-size:1.5em; font-weight:bold;">2024</span>
+  </a>
 </p>
 
 
