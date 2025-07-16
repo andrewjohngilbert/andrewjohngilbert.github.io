@@ -94,13 +94,13 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 ## 2025
 
 
-### [FILS: Self-Supervised Video Feature Prediction In Semantic Language Space](https://andrewjohngilbert.github.io/DEL_ICCV/)
+### [DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding](https://andrewjohngilbert.github.io/DEL_ICCV/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/DEL_ICCV/">
-  <img src="{{ site.baseurl }}/assets/images/FILS_Teaser.jpg" loading="lazy" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/MMKM_Del_Teaser_cutdown.jpg" loading="lazy" width="400"/>
 </a>
 </p>
-Mona Ahmadian, Frank Guerin, Andrew Gilbert, International Confernce on Computer Vision  (ICCV'25) - Workshop 2025
+Mona Ahmadian, Amir Shirian, Frank Guerin, Andrew Gilbert, International Confernce on Computer Vision  (ICCV'25) - The 4th Workshop on What is Next in Multimodal Foundation Models? (MMFM4) 2025
 
 
 ### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
