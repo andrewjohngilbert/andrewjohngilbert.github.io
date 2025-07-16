@@ -83,7 +83,7 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 Working together is crucial for my lab and PhD student, so we go on a yearly trip away
 <p align="left" style="display:flex; gap:10px;">
   <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2025/" style="display:inline-block; position:relative;">
-    <img src="{{ site.baseurl }}/assets/images/Gilbertine2024.jpg" loading="lazy" width="300" style="display:block;"/>
+    <img src="{{ site.baseurl }}/assets/images/IMG-20250702-WA0013.jpg" loading="lazy" width="300" style="display:block;"/>
     <span style="position:absolute; top:10px; left:10px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 12px; border-radius:6px; font-size:1.5em; font-weight:bold;">2025</span>
   </a>
   <a href="https://andrewjohngilbert.github.io/gilbertineweekendaway2024/" style="display:inline-block; position:relative;">
