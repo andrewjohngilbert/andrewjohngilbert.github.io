@@ -119,7 +119,7 @@ Yash Kulthe, Andrew Gilbert, John Collomosse, International Confernce on Compute
   <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
-Ed Fish, Andrew Gilbert,  International Confernce on Computer Vision  (ICCV'25) - , 2025
+Ed Fish, Andrew Gilbert, International Confernce on Computer Vision  (ICCV'25) - 6th Workshop on Closing the loop between Vision and Language, 2025
 
 ### [DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding](https://andrewjohngilbert.github.io/DEL_ICCV/)
 <p align="left">
