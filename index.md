@@ -97,6 +97,29 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2025
 
+### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
+<p align="left">
+<a href="https://soon-yau.github.io/CameraMotionGuidance/">
+  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.png" loading="lazy" width="400"/>
+</a>
+</p>
+Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huang, The 36th British Machine Vision Conference (BMVC'25) 2025
+
+### [MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields](https://andrewjohngilbert.github.io/multinerf-iccv/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/multinerf/">
+  <img src="{{ site.baseurl }}/assets/images/MultiNerf-teaser.png" loading="lazy" width="400"/>
+</a>
+</p>
+Yash Kulthe, Andrew Gilbert, John Collomosse, International Confernce on Computer Vision  (ICCV'25) - The 1st Workshop on Authenticity & Provenance in the age of Generative AI (APAI'25), 2025
+
+### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/PLOT-TAL/">
+  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Ed Fish, Andrew Gilbert,  International Confernce on Computer Vision  (ICCV'25) - , 2025
 
 ### [DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding](https://andrewjohngilbert.github.io/DEL_ICCV/)
 <p align="left">
@@ -114,7 +137,6 @@ Mona Ahmadian, Amir Shirian, Frank Guerin, Andrew Gilbert, International Confern
 </a>
 </p>
 Gemma C Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) 2025
-
 
 
 ### [Human vs. Machine Minds: Ego-Centric Action Recognition Compared](https://andrewjohngilbert.github.io/HumanvsMachineMinds/)
@@ -151,13 +173,7 @@ Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Learni
 
 ## 2024
 
-### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
-<p align="left">
-<a href="https://soon-yau.github.io/CameraMotionGuidance/">
-  <img src="{{ site.baseurl }}/assets/images/CamControlBoosting.png" loading="lazy" width="400"/>
-</a>
-</p>
-Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huang, Arxiv Preprint 2410.10802, 2024
+
 
 
 ### [FILS: Self-Supervised Video Feature Prediction In Semantic Language Space](https://andrewjohngilbert.github.io/FILS/)
@@ -257,13 +273,7 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, Europe
 </p>
 Anthony Orme,  Anthony Adeyemi-Ejeye and  Gilbert, Andrew, 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting BMSB 2024
 
-### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
-<p align="left">
-<a href="https://andrewjohngilbert.github.io/PLOT-TAL/">
-  <img src="{{ site.baseurl }}/assets/images/PLotal_teaser.jpg" loading="lazy" width="400"/>
-</a>
-</p>
-Ed Fish, Jon Weinbren, Andrew Gilbert, ArXiv abs/2403.18915, 2024
+
 
 ## 2023
 
