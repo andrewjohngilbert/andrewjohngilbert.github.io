@@ -97,6 +97,14 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2025
 
+### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/UILAQA/">
+  <img src="{{ site.baseurl }}/assets/images/UIL-AQA_Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, International Journal of Computer Vision (IJCV), 2025
+
 ### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
 <p align="left">
 <a href="https://soon-yau.github.io/CameraMotionGuidance/">
