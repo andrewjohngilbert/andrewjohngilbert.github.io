@@ -49,8 +49,8 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 ### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
 A groundbreaking project enabling AI-driven compositing with precise text and layout control.
 
-### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
-A novel approach to long-term video captioning using dual-vision attention networks.
+### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
+Clip-level interpretable and uncertainty-aware long-term Action Quality Assesment.
 
 ## Current PhD Students
 - [Will Binning](https://www.linkedin.com/in/will-binning-66a9b7221/) - Quality of Experience Rule Understanding for Inclusive Board Gaming 2025
@@ -95,6 +95,17 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 
 # Publications
+
+## 2026
+
+### [Generative Data Augmentation for Skeleton Action Recognition](https://andrewjohngilbert.github.io/SkelActRec/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/SkelActRec/">
+  <img src="{{ site.baseurl }}/assets/images/SkelActRec-Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE International Conference on Automatic Face and Gesture Recognition FG'26, 2026
+
 
 ## 2025
 
