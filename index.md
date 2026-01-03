@@ -53,17 +53,18 @@ A groundbreaking project enabling AI-driven compositing with precise text and la
 A novel approach to long-term video captioning using dual-vision attention networks.
 
 ## Current PhD Students
-
+- [Will Binning](https://www.linkedin.com/in/will-binning-66a9b7221/) - Quality of Experience Rule Understanding for Inclusive Board Gaming 2025
+- [Irene Muñoz-López](https://www.linkedin.com/in/irene-munoz-lopez-iml/) - Adaptive Audio-Description Generation for Dynamic Inclusion in Immersive Media 2025
 - [Oberon Buckingham-West](https://www.linkedin.com/in/oberon-dsbw) - Adaptive Game Engines for Personalised Learning 2024
 - [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspire Video Understanding 2023
-- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
-- [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
+- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
+- [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
 - [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - [Ed Fish](https://ed-fish.github.io/) - Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning - 2019
