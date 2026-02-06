@@ -114,6 +114,14 @@ Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE Internatio
 </p>
 Anthony Orme, Anthony Adeyemi-Ejeye, Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
 
+### [Intelligent Video Understanding: Self-Supervised and Multimodal Learning](https://andrewjohngilbert.github.io/monaThesis/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/monaThesis/">
+  <img src="{{ site.baseurl }}/assets/images/monaThesis_Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Mona Ahmadian, Thesis, 2026
+
 ### [No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction](https://andrewjohngilbert.github.io/KatThesis/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/KatThesis/">
