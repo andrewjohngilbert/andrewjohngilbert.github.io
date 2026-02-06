@@ -49,22 +49,22 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 ### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
 A groundbreaking project enabling AI-driven compositing with precise text and layout control.
 
-### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
-Clip-level interpretable and uncertainty-aware long-term Action Quality Assesment.
+### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
+A novel approach to long-term video captioning using dual-vision attention networks.
 
 ## Current PhD Students
-- [Will Binning](https://www.linkedin.com/in/will-binning-66a9b7221/) - Quality of Experience Rule Understanding for Inclusive Board Gaming 2025
-- [Irene Muñoz-López](https://www.linkedin.com/in/irene-munoz-lopez-iml/) - Adaptive Audio-Description Generation for Dynamic Inclusion in Immersive Media 2025
+
 - [Oberon Buckingham-West](https://www.linkedin.com/in/oberon-dsbw) - Adaptive Game Engines for Personalised Learning 2024
 - [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspire Video Understanding 2023
+- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
+
 - [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
-- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
-- [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - Real stories through faked media: Non-fiction in AI-generated environments 2021
+- [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction 2021
 - [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
 - [Ed Fish](https://ed-fish.github.io/) - Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning - 2019
@@ -96,18 +96,23 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 # Publications
 
-## 2026
+## 2025
 
-### [Generative Data Augmentation for Skeleton Action Recognition](https://andrewjohngilbert.github.io/SkelActRec/)
+### [Early TCP Flow Length Regression with Machine Learning](https://andrewjohngilbert.github.io/TCPFlowLength/)
 <p align="left">
-<a href="https://andrewjohngilbert.github.io/SkelActRec/">
-  <img src="{{ site.baseurl }}/assets/images/SkelActRec-Teaser.jpg" loading="lazy" width="400"/>
+<a href="https://andrewjohngilbert.github.io/TCPFlowLength/">
+  <img src="{{ site.baseurl }}/assets/images/TCPFlowLength-Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
-Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE International Conference on Automatic Face and Gesture Recognition FG'26, 2026
+nthony Orme and Anthony Adeyemi-Ejeye and Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
 
-
-## 2025
+### [No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction](https://andrewjohngilbert.github.io/KatThesis/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/KatThesis/">
+  <img src="{{ site.baseurl }}/assets/images/KatThesis_Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Katharina Botel-Azzinnaro, Thesis, 2026
 
 ### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
 <p align="left">
