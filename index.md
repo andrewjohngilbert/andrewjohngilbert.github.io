@@ -96,7 +96,15 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 # Publications
 
-## 2025
+## 2026
+
+### [Generative Data Augmentation for Skeleton Action Recognition](https://andrewjohngilbert.github.io/SkelActRec/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/TCPFloSkelActRecLength/">
+  <img src="{{ site.baseurl }}/assets/images/SkelActRec-Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE International Conference on Automatic Face and Gesture Recognition FG’26, 2026
 
 ### [Early TCP Flow Length Regression with Machine Learning](https://andrewjohngilbert.github.io/TCPFlowLength/)
 <p align="left">
@@ -104,7 +112,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
   <img src="{{ site.baseurl }}/assets/images/TCPFlowLength-Teaser.jpg" loading="lazy" width="400"/>
 </a>
 </p>
-nthony Orme and Anthony Adeyemi-Ejeye and Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
+Anthony Orme, Anthony Adeyemi-Ejeye, Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
 
 ### [No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction](https://andrewjohngilbert.github.io/KatThesis/)
 <p align="left">
@@ -113,6 +121,8 @@ nthony Orme and Anthony Adeyemi-Ejeye and Andrew Gilbert, IEEE Wireless Communic
 </a>
 </p>
 Katharina Botel-Azzinnaro, Thesis, 2026
+
+## 2025
 
 ### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
 <p align="left">
