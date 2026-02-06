@@ -114,9 +114,9 @@ Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE Internatio
 </p>
 Anthony Orme, Anthony Adeyemi-Ejeye, Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
 
-### [Intelligent Video Understanding: Self-Supervised and Multimodal Learning](https://andrewjohngilbert.github.io/monaThesis/)
+### [Intelligent Video Understanding: Self-Supervised and Multimodal Learning](https://andrewjohngilbert.github.io/monathesis/)
 <p align="left">
-<a href="https://andrewjohngilbert.github.io/monaThesis/">
+<a href="https://andrewjohngilbert.github.io/monathesis/">
   <img src="{{ site.baseurl }}/assets/images/thesisCrest.jpg" loading="lazy" width="400"/>
 </a>
 </p>
