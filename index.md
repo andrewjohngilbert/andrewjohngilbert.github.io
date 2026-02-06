@@ -117,7 +117,7 @@ Anthony Orme, Anthony Adeyemi-Ejeye, Andrew Gilbert, IEEE Wireless Communication
 ### [Intelligent Video Understanding: Self-Supervised and Multimodal Learning](https://andrewjohngilbert.github.io/monaThesis/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/monaThesis/">
-  <img src="{{ site.baseurl }}/assets/images/monaThesis_Teaser.jpg" loading="lazy" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/thesisCrest.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Mona Ahmadian, Thesis, 2026
@@ -125,7 +125,7 @@ Mona Ahmadian, Thesis, 2026
 ### [No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction](https://andrewjohngilbert.github.io/KatThesis/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/KatThesis/">
-  <img src="{{ site.baseurl }}/assets/images/KatThesis_Teaser.jpg" loading="lazy" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/thesisCrest.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Katharina Botel-Azzinnaro, Thesis, 2026
