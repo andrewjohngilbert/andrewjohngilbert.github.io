@@ -130,6 +130,15 @@ Mona Ahmadian, Thesis, 2026
 </p>
 Katharina Botel-Azzinnaro, Thesis, 2026
 
+### [Camera Tracking Systems and their Democratisation](https://andrewjohngilbert.github.io/CameraTrackingDemocratization/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/CameraTrackingDemocratization/">
+  <img src="{{ site.baseurl }}/assets/images/CameraTrackingDemocratization-Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Irene Muñoz López, Andrew Gilbert SMPTE Motion Imaging Journal, 2026
+
+
 ## 2025
 
 ### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
