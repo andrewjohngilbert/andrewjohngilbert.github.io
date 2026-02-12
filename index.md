@@ -59,11 +59,11 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 - [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspired Video Understanding 2023
-- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
 - [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
+- [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction 2021
 - [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
 - [Soon Yau](https://www.linkedin.com/in/soonyau/) - Text to Storyboard generation - 2021
