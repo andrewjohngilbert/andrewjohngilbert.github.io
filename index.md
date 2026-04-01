@@ -271,6 +271,14 @@ Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye,Andrew Gilbert, The 35th 
 </p>
 Kar Balan, Andrew Gilbert, John Collomosse, Conference on Visual Media Production (CVMP'24) 2024
 
+### [Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning](https://andrewjohngilbert.github.io/edthesis/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/edthesis/">
+  <img src="{{ site.baseurl }}/assets/images/thesisCrest.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Ed Fish, Thesis, 2024
+
 ### [Detection and Re-Identification in the case of Horse Racing](https://andrewjohngilbert.github.io/HelmetDetect/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/HelmetDetect/">
