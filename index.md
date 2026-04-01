@@ -218,6 +218,14 @@ Sadegh Rahmani, Filip Rybansky, Quoc Vuong, Frank Guerin, Andrew Gilbert, IEEE/C
 </p>
 Adrienne Deganutti, Simon Hadfield, Andrew Gilbert, IEEE/CVF Conference on Computer Vision and Pattern Recognition - Workshop on AI for Content Creation Workshop (AICC'25), 2025
 
+### [Multimodal Conditioning for Controllable Image and Video Generation](https://andrewjohngilbert.github.io/soonthesis/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/soonthesis/">
+  <img src="{{ site.baseurl }}/assets/images/thesisCrest.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Soon Yau Cheong, Thesis, 2025
+
 ### [Content ARCs: Decentralized Content Rights in the Age of Generative AI ](https://andrewjohngilbert.github.io/ContentARCs/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/ContentARCs/">
