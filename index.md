@@ -59,10 +59,10 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 - [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspired Video Understanding 2023
-- [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
 - [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 
 ## Alumi
+- [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
 - [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction 2021
 - [Gemma Canet Tarrés ](https://www.linkedin.com/in/gemmacanettarres/) - Levering Multimodality for Controllable Image Generation 2021
@@ -114,6 +114,15 @@ Xu Dong, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, 20th IEEE Internatio
 </p>
 Anthony Orme, Anthony Adeyemi-Ejeye, Andrew Gilbert, IEEE Wireless Communications and Networking Conference (WCNC), Track 4: Emerging Technologies, Network Architectures, and Applications, 2026
 
+### [Seeing Just Enough: The Contribution of Hands, Objects and Visual Features to Egocentric Action Recognition](https://andrewjohngilbert.github.io/VisualFeats/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/VisualFeats/">
+  <img src="{{ site.baseurl }}/assets/images/VisualFeatsTeaserWide.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Filip Rybansky, Sadegh Rahmani, Andrew Gilbert,  Frank Guerin, Anya Hurlbert, Quoc Vuong, bioRxiv, 2026.02.15.705896 2026
+
+
 ### [Intelligent Video Understanding: Self-Supervised and Multimodal Learning](https://andrewjohngilbert.github.io/monathesis/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/monathesis/">
@@ -149,6 +158,8 @@ Irene Muñoz López, Andrew Gilbert SMPTE Motion Imaging Journal, 2026
 </p>
 Xu Dong, Xinran Liu, Wanqing Li, Anthony Adeyemi-Ejeye, Andrew Gilbert, International Journal of Computer Vision (IJCV), 2025
 
+
+
 ### [Boosting Camera Motion Control for Video Diffusion Transformers](https://soon-yau.github.io/CameraMotionGuidance/)
 <p align="left">
 <a href="https://soon-yau.github.io/CameraMotionGuidance/">
@@ -163,7 +174,7 @@ Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, Andrew Gilbert, Chun-Hao Paul Huan
   <img src="{{ site.baseurl }}/assets/images/MultiNerf-teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
-Yash Kulthe, Andrew Gilbert, John Collomosse, International Confernce on Computer Vision  (ICCV'25) - The 1st Workshop on Authenticity & Provenance in the age of Generative AI (APAI'25), 2025
+Yash Kulthe, Andrew Gilbert, John Collomosse, International Conference on Computer Vision  (ICCV'25) - The 1st Workshop on Authenticity & Provenance in the age of Generative AI (APAI'25), 2025
 
 ### [PLOT-TAL--Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://andrewjohngilbert.github.io/PLOT-TAL/)
 <p align="left">
