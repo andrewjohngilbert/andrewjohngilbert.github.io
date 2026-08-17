@@ -24,7 +24,7 @@ Dr Andrew Gilbert is an Associate Professor in Machine Learning at the Universit
 
 Dr Gilbert has made significant contributions to the fields of video understanding, , [long-form video captioning](https://andrewjohngilbert.github.io/DANTE-AD/), [visual style modelling](https://andrewjohngilbert.github.io/neat), and [AI-driven story understanding](https://andrewjohngilbert.github.io/Rethinking_genre/). A distinctive feature of his research is its integration into the creative industries, applying technical advances to domains such as media production, [performance capture](https://cvssp.org/projects/totalcapture/TotalCapture/), and digital arts. From training models to [classify genre from movie trailers](https://andrewjohngilbert.github.io/Rethinking_genre/) to designing systems that can [generate synthetic images](https://andrewjohngilbert.github.io/multitwine/) and narrative content, his work consistently pushes the boundaries of how AI can support and enhance human creativity.
 
-He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilbertineweekendaway2024/) of PhD students, collaborating on cutting-edge projects in areas such as [self-supervised learning from video](https://andrewjohngilbert.github.io/mofo/), [video diffusion models](https://soon-yau.github.io/CameraMotionGuidance/), and multimodal scene understanding. Many of these projects are conducted in close partnership with creative practitioners, industry partners, and other academic disciplines, reflecting Dr Gilbert’s commitment to interdisciplinary and impact-driven research.
+He leads a [vibrant and diverse team](https://andrewjohngilbert.github.io/gilbertineweekendaway2026/) of PhD students, collaborating on cutting-edge projects in areas such as [self-supervised learning from video](https://andrewjohngilbert.github.io/mofo/), [video diffusion models](https://soon-yau.github.io/CameraMotionGuidance/), and multimodal scene understanding. Many of these projects are conducted in close partnership with creative practitioners, industry partners, and other academic disciplines, reflecting Dr Gilbert’s commitment to interdisciplinary and impact-driven research.
 
 In addition to his research leadership, Dr Gilbert is an active contributor to the UK computer vision community. He serves on the [British Machine Vision Association (BMVA)](http://www.bmva.org/) Executive Committee, where he organises [national technical meetings](https://www.bmva.org/meetings) to foster collaboration between academia and industry. Through this work, he helps shape the research agenda for future AI systems that are explainable, responsible, and aligned with human values.
 
@@ -53,15 +53,17 @@ A groundbreaking project enabling AI-driven compositing with precise text and la
 A novel approach to long-term video captioning using dual-vision attention networks.
 
 ## Current PhD Students
-- [Irene Muñoz López](https://www.linkedin.com/in/irene-munoz-lopez-iml/) - AI-Driven Adaptive Audio-Description Generation for Dynamic Inclusion in Immersive Media 2024
+- [Tautvydas Kuliesius](https://www.linkedin.com/in/tautvydas-kulie%C5%A1ius/) - Improving lagacy Computer Game Accesibiliy 2025
+- [Irene Muñoz López](https://www.linkedin.com/in/irene-munoz-lopez-iml/) - AI-Driven Adaptive Audio-Description Generation for Dynamic Inclusion in Immersive Media 2025
 - [Will Binnings](https://www.linkedin.com/in/will-binning-66a9b7221/) - Quality of Experience Centred, Machine Learning Powered Rule Understanding for Inclusive Board Gaming 2025
 - [Oberon Buckingham-West](https://www.linkedin.com/in/oberon-dsbw) - Adaptive Game Engines for Personalised Learning 2024
 - [Adrienne Deganutti](https://www.linkedin.com/in/adrienne-deganutti-bb28031b6/) - Long Term Video Captioning 2023
 - [Xu Dong](https://www.linkedin.com/in/xudong-442302166/) - Group Activity Recognition in Video 2023
 - [Sadegh Rahmani](https://www.linkedin.com/in/sadegh-rahmani-002b6398) - Human Inspired Video Understanding 2023
-- [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
+
 
 ## Alumi
+- [Tony Orme](https://www.linkedin.com/in/tonyorme/) - Temporal Prediction of IP packets in network switches - 2019
 - [Kar Balan](https://www.linkedin.com/in/kar-balan/) - Decentralized virtual content Understanding for Blockchain- 2021
 - [Mona Ahmadian](https://www.linkedin.com/in/mona-ahmadian-57853521a/) - Self-Supervised Audio Visual Video Understanding 2022
 - [Katharina Botel-Azzinnaro](https://www.linkedin.com/in/katharinabotelazzinnaro/) - No Anchor, No Trust: Inference Journalism and the Empathy–Ethics Paradox in AI Nonfiction 2021
@@ -75,9 +77,43 @@ A novel approach to long-term video captioning using dual-vision attention netwo
 - [Phil Krejov](https://www.linkedin.com/in/krejov/) - 2012
 - [Segun Oshin](https://www.linkedin.com/in/olusegun-oshin/) - 2008
 
-<p align="left">
-<img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg" width="300" alt="Ed Fish and Soon Graduation Andrew Gilbert"/>
-</p>
+
+<div class="fade-images">
+  <img src="{{ site.baseurl }}/assets/images/SoonEdGradCropSmall.jpg"
+       alt="Ed Fish and Soon Graduation Andrew Gilbert">
+  <img src="{{ site.baseurl }}/assets/images/Grad26KatMona.jpg"
+       alt="Second image">
+</div>
+
+<style>
+.fade-images {
+  position: relative;
+  width: 300px;
+  height: 200px; /* change to match your images */
+}
+
+.fade-images img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 300px;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fade-images img:nth-child(2) {
+  animation: crossfade 6s ease-in-out infinite alternate;
+}
+
+@keyframes crossfade {
+  0%, 30% {
+    opacity: 0;
+  }
+  70%, 100% {
+    opacity: 1;
+  }
+}
+</style>
 
 
 # Gilbertine Weekend Away
