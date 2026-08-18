@@ -46,11 +46,16 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 
 
 ## Featured Projects
+
+### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
+Can a video-language model tell what each hand is actually doing?
+
+### [Moving Beyond More Views: Redundancy-Aware Ego--Exo Fusion for Proficiency Estimation](https://andrewjohngilbert.github.io/RedundEgoExo/)
+Are more camera views always better?
+
 ### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
 Interpretable and uncertainty-aware scoring for long-term Action Quality Assessment (AQA).
 
-### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
-A novel approach to long-term video captioning using dual-vision attention networks.
 
 ## Current PhD Students
 - [Tautvydas Kuliesius](https://www.linkedin.com/in/tautvydas-kulie%C5%A1ius/) - Improving lagacy Computer Game Accesibiliy 2025
@@ -137,6 +142,15 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 # Publications
 
 ## 2026
+
+### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/BiScopeNet/">
+  <img src="{{ site.baseurl }}/assets/images/BiScopeNet_TeaserSmall.jpeg" loading="lazy" width="400"/>
+</a>
+</p>
+Sadegh Rahmaniboldaji and Filip Rybansky and Quoc Vuong and Frank Guerin and Andrew Gilbert, British Machine Vision Conference (BMVC), 2026
+
 
 ### [Moving Beyond More Views: Redundancy-Aware Ego--Exo Fusion for Proficiency Estimation](https://andrewjohngilbert.github.io/RedundEgoExo/)
 <p align="left">
