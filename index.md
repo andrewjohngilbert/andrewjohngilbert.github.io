@@ -141,7 +141,7 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 ### [Moving Beyond More Views: Redundancy-Aware Ego--Exo Fusion for Proficiency Estimation](https://andrewjohngilbert.github.io/RedundEgoExo/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/RedundEgoExo/">
-  <img src="{{ site.baseurl }}/assets/images/AdaMVS_TeaserSmall.jpg" loading="lazy" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/AdaMVS_TeaserSmall.jpeg" loading="lazy" width="400"/>
 </a>
 </p>
 Xu Dong and Wanqing Li and Anthony Adeyemi-Ejeye and Andrew Gilbert, European Conference on Computer Vision (ECCV), 2026
