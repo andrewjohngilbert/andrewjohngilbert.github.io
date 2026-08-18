@@ -46,8 +46,8 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 
 
 ## Featured Projects
-### [Multitwine: Multi-Object Compositing with Text and Layout Control](https://andrewjohngilbert.github.io/multitwine/)
-A groundbreaking project enabling AI-driven compositing with precise text and layout control.
+### [UIL-AQA: Uncertainty-aware Clip-level Interpretable Action Quality Assessment](https://andrewjohngilbert.github.io/UILAQA/)
+Interpretable and uncertainty-aware scoring for long-term Action Quality Assessment (AQA).
 
 ### [DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description](https://andrewjohngilbert.github.io/DANTE-AD/)
 A novel approach to long-term video captioning using dual-vision attention networks.
@@ -138,7 +138,16 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2026
 
-### [Generative Data Augmentation for Skeleton Action Recognition](https://andrewjohngilbert.github.io/SkelActRec/)
+### [Moving Beyond More Views: Redundancy-Aware Ego--Exo Fusion for Proficiency Estimation](https://andrewjohngilbert.github.io/RedundEgoExo/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/TCPFloSkelActRecLength/">
+  <img src="{{ site.baseurl }}/assets/images/AdaMVS_Teaser.jpg" loading="lazy" width="400"/>
+</a>
+</p>
+Xu Dong and Wanqing Li and Anthony Adeyemi-Ejeye and Andrew Gilbert, European Conference on Computer Vision (ECCV), 2026
+
+
+### [Generative Data Augmentation for Skeleton Action Recognition](https://andrewjohngilbert.github.io/SkelActRec)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/TCPFloSkelActRecLength/">
   <img src="{{ site.baseurl }}/assets/images/SkelActRec-Teaser.jpg" loading="lazy" width="400"/>
