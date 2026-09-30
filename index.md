@@ -47,6 +47,9 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 
 ## Featured Projects
 
+### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/)
+What do humans and AI models need to see to recognise an action?
+
 ### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
 Can a video-language model tell what each hand is actually doing?
 
@@ -143,14 +146,29 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2026
 
-### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
+### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/">
+  <img src="{{ site.baseurl }}/assets/images/Human-AI-Divergence-IJCV_Teaser.png" loading="lazy" width="400"/>
+</a>
+</p>
+Sadegh Rahmaniboldaji and Filip Rybansky and Anya Hurlbert and Quoc Vuong and Frank Guerin and Andrew Gilbert, International Journal of Computer Vision (IJCV), 2026
+
+### [FilmCam](https://andrewjohngilbert.github.io/Film-cam/)
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/Film-cam/">
+  <img src="{{ site.baseurl }}/assets/images/Film-cam_teaser.jpeg" loading="lazy" width="400"/>
+</a>
+</p>
+Yash Kulthe, Andrew Gilbert, John Collomosse, NeuIPS 2026
+
+### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/Film-cam/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/BiScopeNet/">
   <img src="{{ site.baseurl }}/assets/images/BiScopeNet_TeaserSmall.jpeg" loading="lazy" width="400"/>
 </a>
 </p>
 Sadegh Rahmaniboldaji and Filip Rybansky and Quoc Vuong and Frank Guerin and Andrew Gilbert, British Machine Vision Conference (BMVC), 2026
-
 
 ### [Moving Beyond More Views: Redundancy-Aware Ego--Exo Fusion for Proficiency Estimation](https://andrewjohngilbert.github.io/RedundEgoExo/)
 <p align="left">
