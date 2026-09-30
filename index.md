@@ -47,7 +47,7 @@ Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@
 
 ## Featured Projects
 
-### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/)
+### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence/)
 What do humans and AI models need to see to recognise an action?
 
 ### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
@@ -146,9 +146,9 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 
 ## 2026
 
-### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/)
+### [Human–AI Divergence in Ego-Centric Action Recognition](https://andrewjohngilbert.github.io/Human-AI-Divergence/)
 <p align="left">
-<a href="https://andrewjohngilbert.github.io/Human-AI-Divergence-IJCV/">
+<a href="https://andrewjohngilbert.github.io/Human-AI-Divergence/">
   <img src="{{ site.baseurl }}/assets/images/Human-AI-Divergence-IJCV_Teaser.png" loading="lazy" width="400"/>
 </a>
 </p>
