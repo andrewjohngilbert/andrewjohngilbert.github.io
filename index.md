@@ -42,6 +42,12 @@ I'm always looking for good PhD candidates, but normally, when I have funding av
 ## Contact Me
 Interested in collaborating or pursuing a PhD? [Email me](mailto:andrew.gilbert@surrey.ac.uk) to discuss opportunities.
 
+## Gilbertine Lab Files
+<p align="left">
+<a href="https://andrewjohngilbert.github.io/gilbertines/">
+  <img src="{{ site.baseurl }}https://andrewjohngilbert.github.io/gilbertines/gilbertinelogo/LogoSingleColour2026.png" loading="lazy" width="400"/>
+</a>
+</p>
 
 
 
