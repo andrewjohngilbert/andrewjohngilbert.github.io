@@ -12,6 +12,12 @@ Department of Music and Media, Faculty of Arts and Social Sciences, University o
 
 ---
 
+## Expectation of a PhD Student
+
+Tips and hints to provide you with an idea of what is expected of a PhD candidate. Modified from a version produced by [Simon Hadfield](https://www.surrey.ac.uk/people/simon-hadfield) in 2019 & and [Rich Bowden](https://www.surrey.ac.uk/people/richard-bowden) in 2013
+
+**[Download the Expectations of a PhD Student (PDF)](expectations/ExpectationsofaPhDstudent2025.pdf)**
+
 ## Confirmation
 
 Templates, guidance and examples for preparing your PhD confirmation report.
