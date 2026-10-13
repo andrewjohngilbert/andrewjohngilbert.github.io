@@ -46,7 +46,7 @@ Ask Andrew Gilbert for the group password.
 
 Resources and guidance for students on the Centre for Doctoral Training programme.
 
-CDT resources will be added here.
+**[Open the CDT calendar →](https://dmicdt.github.io/cdt3-calendar/)**
 
 ---
 
