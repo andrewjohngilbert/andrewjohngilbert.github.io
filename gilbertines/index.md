@@ -18,7 +18,7 @@ Tips and hints to provide you with an idea of what is expected of a PhD candidat
 
 **[Download the Expectations of a PhD Student (PDF)](expectations/ExpectationsofaPhDstudent2025.pdf)**
 
-**[Download [Xu's](https://dx199771.github.io/xudong/) Excellent AI research - Skills that still matter in the LLM era (PDF)](expectations/XuThoughtsAIResearch.pdf)**
+**[Download Xu's](https://dx199771.github.io/xudong/) [Excellent AI research - Skills that still matter in the LLM era (PDF)](expectations/XuThoughtsAIResearch.pdf)**
 
 ## Confirmation
 
