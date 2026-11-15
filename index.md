@@ -163,7 +163,7 @@ Sadegh Rahmaniboldaji and Filip Rybansky and Anya Hurlbert and Quoc Vuong and Fr
 ### [FilmCam](https://yash-research.github.io/filmcam/)
 <p align="left">
 <a href="https://yash-research.github.io/filmcam/">
-  <img src="{{ site.baseurl }}/assets/images/filmcam_TeaserSmall.jpeg" loading="lazy" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/filmcam_TeaserSmall.jpg" loading="lazy" width="400"/>
 </a>
 </p>
 Yash Kulthe, Andrew Gilbert, John Collomosse, NeuIPS 2026
