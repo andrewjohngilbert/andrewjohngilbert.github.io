@@ -160,11 +160,15 @@ Working together is crucial for my lab and PhD student, so we go on a yearly tri
 </p>
 Sadegh Rahmaniboldaji and Filip Rybansky and Anya Hurlbert and Quoc Vuong and Frank Guerin and Andrew Gilbert, International Journal of Computer Vision (IJCV), 2026
 
-### [FilmCam](https://andrewjohngilbert.github.io/Film-cam/)
-
+### [FilmCam](https://yash-research.github.io/filmcam/)
+<p align="left">
+<a href="https://yash-research.github.io/filmcam/">
+  <img src="{{ site.baseurl }}/assets/images/filmcam_TeaserSmall.jpeg" loading="lazy" width="400"/>
+</a>
+</p>
 Yash Kulthe, Andrew Gilbert, John Collomosse, NeuIPS 2026
 
-### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/Film-cam/)
+### [Sub-actions in Action: Text-Guided Hand-Role Alignment for Sub-Action Recognition](https://andrewjohngilbert.github.io/BiScopeNet/)
 <p align="left">
 <a href="https://andrewjohngilbert.github.io/BiScopeNet/">
   <img src="{{ site.baseurl }}/assets/images/BiScopeNet_TeaserSmall.jpeg" loading="lazy" width="400"/>
